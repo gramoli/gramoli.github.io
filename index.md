@@ -3,7 +3,7 @@ Research Group at the University of Sydney and acts as a Director and Chief Tech
 
 Vincent Gramoli publishes in top journals and conferences (IEEE S&P, TPDS, CACM, PPoPP, NDSS, EuroSys, DSN), he served as Program Committee Chair of various international scientific conferences (NETYS'13, FAB'21, Tokenomics'21, OPODIS'21) and served as an invited speaker at various scientific events. He co-published the [Consistent Distributed Storage book](https://www.morganclaypool.com/doi/10.2200/S01069ED1V01Y202012DCT017).
 
-His recent focus is on blockchain technology. With his lab, he found and reported several security flaws in Ethereum in 2016, 2017, 2019 and 2021. As an alternative, they proposed the Red Belly Blockchain, a secure blockchain whose performance scales to large world-wide deployments. With his co-authors, he received the best paper award at ICDCS'21 for their leaderless consensus algorithm. His [Blockchain Scalability MOOC](https://www.coursera.org/teach/blockchain-scalability/course/overview) on Coursera is taken by thousands of students.
+His recent focus is on blockchain technology. With his lab, he found and reported several security flaws in Ethereum in 2016, 2017, 2019 and 2021. As an alternative, they proposed the Red Belly Blockchain, a secure blockchain whose performance scales to world-wide deployments. With his co-authors, he received the best paper award at ICDCS'21 for their leaderless consensus algorithm. His [Blockchain Scalability MOOC](https://www.coursera.org/teach/blockchain-scalability/course/overview) on Coursera is taken by thousands of students.
 
 ### Selected Publications
 
