@@ -9,7 +9,7 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 - [Red belly: A secure, fair and scalable open blockchain](http://redbellyrw.cluster021.hosting.ovh.net/pubs/redbellyblockchain-oakland21.pdf).
 T Crain, C Natoli, V Gramoli.
-2021 IEEE Symposium on Security and Privacy (SP), 466-483.
+2021 IEEE Symposium on Security and Privacy (S\&P), 466-483.
 
 - [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf).
 P Civit, S Gilbert, V Gramoli. 
