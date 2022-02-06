@@ -19,10 +19,6 @@ IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 202
 P Ekparinya, V Gramoli, G Jourjon.
 27th Annual Network and Distributed System Security Symposium (NDSS), 2020.
 
-- [The blockchain as a software connector](https://www.researchgate.net/publication/305525271_The_Blockchain_as_a_Software_Connector).
-X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
-13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016.
-
 - [From blockchain consensus back to Byzantine consensus](https://www.researchgate.net/publication/319984012_From_blockchain_consensus_back_to_Byzantine_consensus).
 V Gramoli.
 Future Generation Computer Systems 107, 760-769, 2020.
@@ -30,6 +26,10 @@ Future Generation Computer Systems 107, 760-769, 2020.
 - [The balance attack or why forkable blockchains are ill-suited for consortium](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Balance_Attack_DSN17.pdf)
 C Natoli, V Gramoli.
 47th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2017.
+
+- [The blockchain as a software connector](https://www.researchgate.net/publication/305525271_The_Blockchain_as_a_Software_Connector).
+X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
+13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016.
 
 - [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms](http://redbellyrw.cluster021.hosting.ovh.net/pubs/gramoli-synchrobench.pdf).
 V Gramoli.
