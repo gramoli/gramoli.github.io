@@ -1,6 +1,6 @@
 ## Vincent Gramoli
 
-![Image](http://redbellyrw.cluster021.hosting.ovh.net/img/Vincent-Gramoli.jpeg)
+![Image](http://redbellyrw.cluster021.hosting.ovh.net/img/Vincent-Gramoli.jpeg | width=130)
 
 Vincent Gramoli is a Future Fellow of the Australian Research Council. His expertise is in distributed computing and security. He leads the Concurrent Systems 
 Research Group at the University of Sydney and acts as a Director and Chief Technology Officer of Redbelly Network Pty Ltd. In the past, Gramoli has been affiliated with INRIA, Cornell University, CSIRO and EPFL. He received his PhD from Université de Rennes and his Habilitation from UPMC Sorbonne University. 
