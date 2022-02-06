@@ -9,7 +9,7 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 - [Red belly: A secure, fair and scalable open blockchain](http://redbellyrw.cluster021.hosting.ovh.net/pubs/redbellyblockchain-oakland21.pdf).
 T Crain, C Natoli, V Gramoli.
-2021 IEEE Symposium on Security and Privacy (S\&P), 466-483.
+IEEE Symposium on Security and Privacy (S\&P), 466-483, 2021.
 
 - [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf).
 P Civit, S Gilbert, V Gramoli. 
@@ -21,11 +21,11 @@ P Ekparinya, V Gramoli, G Jourjon.
 
 - [The blockchain as a software connector](https://www.researchgate.net/publication/305525271_The_Blockchain_as_a_Software_Connector).
 X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
-2016 13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191.
+13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016.
 
 - [From blockchain consensus back to Byzantine consensus](https://www.researchgate.net/publication/319984012_From_blockchain_consensus_back_to_Byzantine_consensus).
 V Gramoli.
-Future Generation Computer Systems 107, 760-769.
+Future Generation Computer Systems 107, 760-769, 2020.
 
 - [The balance attack or why forkable blockchains are ill-suited for consortium](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Balance_Attack_DSN17.pdf)
 C Natoli, V Gramoli.
