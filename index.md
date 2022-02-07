@@ -9,15 +9,16 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 - [Red belly: A secure, fair and scalable open blockchain](http://redbellyrw.cluster021.hosting.ovh.net/pubs/redbellyblockchain-oakland21.pdf).
 T Crain, C Natoli, V Gramoli.
-IEEE Symposium on Security and Privacy (S\&P), 466-483, 2021.
+IEEE Symposium on Security and Privacy (S&P), 466-483, 2021. [video](https://www.youtube.com/watch?v=IlIXrqSie9A)
 
 - [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf).
 P Civit, S Gilbert, V Gramoli. 
-IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021.
+IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021. [video](https://www.youtube.com/watch?v=OUPWY9SPV6Q)
 
 - [The attack of the clones against proof-of-authority](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Clone-PoA-NDSS.pdf).
 P Ekparinya, V Gramoli, G Jourjon.
 27th Annual Network and Distributed System Security Symposium (NDSS), 2020.
+Community Ethereum Development Conference, 2019 [video](https://www.youtube.com/watch?v=wQyvIy4FCEw)
 
 - [From blockchain consensus back to Byzantine consensus](https://www.researchgate.net/publication/319984012_From_blockchain_consensus_back_to_Byzantine_consensus).
 V Gramoli.
