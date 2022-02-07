@@ -1,5 +1,5 @@
 Vincent Gramoli is a Future Fellow of the Australian Research Council. His expertise is in distributed computing and security. He leads the Concurrent Systems 
-Research Group at the University of Sydney and acts as a Director and Chief Technology Officer of Redbelly Network Pty Ltd. In the past, Gramoli has been affiliated with INRIA, Cornell, CSIRO and EPFL. He received his PhD from Université de Rennes and his Habilitation from UPMC Sorbonne University. 
+Research Group at the University of Sydney and acts as a Director and Chief Technology Officer of Redbelly Network. In the past, Gramoli has been affiliated with INRIA, Cornell, CSIRO and EPFL. He received his PhD from Université de Rennes and his Habilitation from UPMC Sorbonne University. 
 
 Vincent Gramoli publishes in top journals and conferences (IEEE S&P, TPDS, CACM, PPoPP, NDSS, EuroSys, DSN), he served as Program Committee Chair of various international scientific conferences (NETYS'13, FAB'21, Tokenomics'21, OPODIS'21) and served as an invited speaker at various scientific events. He co-published the [Consistent Distributed Storage book](https://www.morganclaypool.com/doi/10.2200/S01069ED1V01Y202012DCT017).
 
