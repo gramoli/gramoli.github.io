@@ -6,6 +6,10 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
+- [TRAP: Baiting Rational Players to Solve Byzantine Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/TRAP-AsiaCCS2022.pdf).
+A. Ranchal Pedrosa, V. Gramoli.
+17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2022.
+
 - [Red belly: A secure, fair and scalable open blockchain](http://redbellyrw.cluster021.hosting.ovh.net/pubs/redbellyblockchain-oakland21.pdf).
 T Crain, C Natoli, V Gramoli.
 IEEE Symposium on Security and Privacy (S&P), 466-483, 2021. [video](https://www.youtube.com/watch?v=IlIXrqSie9A)
