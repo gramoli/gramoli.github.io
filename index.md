@@ -6,7 +6,7 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
-- [TRAP: Baiting Rational Players to Solve Byzantine Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/TRAP-AsiaCCS2022.pdf).
+- [TRAP: The Bait of Rational Players to Solve Byzantine Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/TRAP-AsiaCCS2022.pdf).
 A. Ranchal Pedrosa, V. Gramoli.
 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2022.
 
