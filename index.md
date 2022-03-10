@@ -32,7 +32,7 @@ Community Ethereum Development Conference, 2019 [video](https://www.youtube.com/
 V Gramoli.
 Future Generation Computer Systems 107, 760-769, 2020.
 
-- [The balance attack or why forkable blockchains are ill-suited for consortium](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Balance_Attack_DSN17.pdf)
+- [The balance attack or why forkable blockchains are ill-suited for consortium](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Balance_Attack_DSN17.pdf).
 C Natoli, V Gramoli.
 47th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2017.
 
