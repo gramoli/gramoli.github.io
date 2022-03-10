@@ -6,6 +6,11 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
+- [As easy as ABC: Optimal (A)ccountable
+(B)yzantine (C)onsensus is easy!](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ABC-IPDPS2022)
+P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
+36th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2022.
+
 - [TRAP: The Bait of Rational Players to Solve Byzantine Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/TRAP-AsiaCCS2022.pdf).
 A. Ranchal Pedrosa, V. Gramoli.
 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2022.
