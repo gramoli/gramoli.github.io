@@ -26,7 +26,7 @@ IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 202
 - [The attack of the clones against proof-of-authority](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Clone-PoA-NDSS.pdf).
 P Ekparinya, V Gramoli, G Jourjon.
 27th Annual Network and Distributed System Security Symposium (NDSS), 2020.
-Community Ethereum Development Conference, 2019 [video](https://www.youtube.com/watch?v=wQyvIy4FCEw)
+Community Ethereum Development Conference, 2019. [video](https://www.youtube.com/watch?v=wQyvIy4FCEw)
 
 - [From blockchain consensus back to Byzantine consensus](https://www.researchgate.net/publication/319984012_From_blockchain_consensus_back_to_Byzantine_consensus).
 V Gramoli.
