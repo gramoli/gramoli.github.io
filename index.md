@@ -6,6 +6,11 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
+- [Crime and Punishment in Distributed Byzantine
+Decision Tasks](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ICDCS2022.pdf)
+P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. 
+42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
+
 - [As easy as ABC: Optimal (A)ccountable
 (B)yzantine (C)onsensus is easy!](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ABC-IPDPS2022)
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
