@@ -6,8 +6,8 @@ author_profile: true
 comments: true
 ---
 
-Recent Research Events
-==
+### Recent Research Events
+
 
 - [APSys 2022](https://ap-sys.org/) - PC member
 - [SSS 2022](https://sss2022.limos.fr/) - PC member
