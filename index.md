@@ -6,6 +6,10 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
+- [Dynamic Blockchain Sharding](http://redbellyrw.cluster021.hosting.ovh.net/pubs/FAB19-Sharding.pdf).
+D. Tennakoon, V. Gramoli. 
+5th International Symposium on Foundations and Applications of Blockchain (FAB), 2022.
+
 - [Crime and Punishment in Distributed Byzantine
 Decision Tasks](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ICDCS2022.pdf).
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. 

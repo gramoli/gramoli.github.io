@@ -1,6 +1,6 @@
 ---
 title:  "Relevant publications"
-layout: archive
+layout: default
 permalink: /relevant/
 author_profile: true
 comments: true
