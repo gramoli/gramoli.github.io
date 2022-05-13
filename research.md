@@ -1,7 +1,7 @@
 ---
 title:  "Research events"
 layout: default
-permalink: /relevant/
+permalink: /research/
 author_profile: true
 comments: true
 ---
