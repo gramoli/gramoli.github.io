@@ -22,7 +22,7 @@ IPDPS’22.
 - [BestPaper’21] Karolos Antoniadis, Antoine Desjardins, Vincent Gramoli, Rachid Guerraoui, Igor Zablotchi: 
 [Leaderless Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ABC-IPDPS2022). ICDCS 2021: 392-402
 
-- [ICDCS’21]: Pierre Civit, Seth Gilbert, Vincent Gramoli:
+- [ICDCS’21] Pierre Civit, Seth Gilbert, Vincent Gramoli:
 [Polygraph: Accountable Byzantine Agreement](https://eprint.iacr.org/2019/587.pdf). ICDCS 2021: 403-413 
 
 - [NDSS’20] Parinya Ekparinya, Vincent Gramoli, Guillaume Jourjon: [The Attack of the Clones Against Proof-of-Authority](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Clone-PoA-NDSS.pdf). NDSS 2020. 
