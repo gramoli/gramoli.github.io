@@ -6,7 +6,7 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
-- [Dynamic Blockchain Sharding](http://redbellyrw.cluster021.hosting.ovh.net/pubs/FAB19-Sharding.pdf).
+- [Dynamic Blockchain Sharding](http://redbellyrw.cluster021.hosting.ovh.net/pubs/FAB22-Sharding.pdf).
 D. Tennakoon, V. Gramoli. 
 5th International Symposium on Foundations and Applications of Blockchain (FAB), 2022.
 
