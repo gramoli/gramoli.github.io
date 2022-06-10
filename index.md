@@ -6,6 +6,10 @@ His recent focus is on blockchain technology. With his lab, he found and reporte
 
 ### Selected Publications
 
+- [BA: Holistic Verification of Blockchain Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/formal-verif.pdf).
+N. Bertrand, V. Gramoli, M. Lazi&cactue;, I. Konnov, P. Tholoniat, J. Widder.
+ACM Symposium on Distributed Computing (PODC) 2022.
+
 - [Dynamic Blockchain Sharding](http://redbellyrw.cluster021.hosting.ovh.net/pubs/FAB22-Sharding.pdf).
 D. Tennakoon, V. Gramoli. 
 5th International Symposium on Foundations and Applications of Blockchain (FAB), 2022.
