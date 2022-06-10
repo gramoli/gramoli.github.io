@@ -22,7 +22,7 @@ P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. S
 - [As easy as ABC: Optimal (A)ccountable
 (B)yzantine (C)onsensus is easy!](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ABC-IPDPS2022)
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
-36th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2022 **Best Paper Award**.
+36th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2022, **Best Paper Award**.
 
 - [TRAP: The Bait of Rational Players to Solve Byzantine Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/TRAP-AsiaCCS2022.pdf).
 A. Ranchal Pedrosa, V. Gramoli.
