@@ -1,3 +1,5 @@
+[Home](index) | [Research](research) | [Software](software) | [Publications](publications)
+
 ## Selected Publications
 
 - [BA: Holistic Verification of Blockchain Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/formal-verif.pdf).
