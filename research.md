@@ -10,7 +10,7 @@ comments: true
 
 ### Recent Research Events
 
-
+- [ConsensusDay 2022](https://research.protocol.ai/sites/consensusday22/) - PC member
 - [APSys 2022](https://ap-sys.org/) - PC member
 - [SSS 2022](https://sss2022.limos.fr/) - PC member
 - [FAB 2022](https://scfab.github.io/2022/) - PC member
