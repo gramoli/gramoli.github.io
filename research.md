@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-[Home](index) | [Research](research) | [Software](software) | [Publications](publications)
+[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications)
 
 ### Recent Research Events
 
