@@ -32,6 +32,10 @@ IEEE Symposium on Security and Privacy (S&P), 466-483, 2021. [video](https://www
 P Civit, S Gilbert, V Gramoli. 
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021. [video](https://www.youtube.com/watch?v=OUPWY9SPV6Q)
 
+- [Leaderless Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ICDCS2021-leaderless.pdf)
+K. Antoniadis, A. Desjardins, V. Gramoli, R. Guerraoui, I. Zablotchi.
+IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 392-402, 2021, **Best Paper Award**. [video](https://youtu.be/gPrdhebjTM0)
+
 - [The attack of the clones against proof-of-authority](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Clone-PoA-NDSS.pdf).
 P Ekparinya, V Gramoli, G Jourjon.
 27th Annual Network and Distributed System Security Symposium (NDSS), 2020.
