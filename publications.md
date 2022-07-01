@@ -20,11 +20,11 @@ P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. S
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2022, **Best Paper Award**.
 
-- [TRAP: The Bait of Rational Players to Solve Byzantine Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/TRAP-AsiaCCS2022.pdf).
+- [TRAP: The Bait of Rational Players to Solve Byzantine Consensus](../pubs/TRAP-AsiaCCS2022.pdf).
 A. Ranchal Pedrosa, V. Gramoli.
 17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2022.
 
-- [Red Belly: A secure, fair and scalable open blockchain](http://redbellyrw.cluster021.hosting.ovh.net/pubs/redbellyblockchain-oakland21.pdf).
+- [Red Belly: A secure, fair and scalable open blockchain](../pubs/redbellyblockchain-oakland21.pdf).
 T Crain, C Natoli, V Gramoli.
 IEEE Symposium on Security and Privacy (S&P), 466-483, 2021. [video](https://www.youtube.com/watch?v=IlIXrqSie9A)
 
@@ -32,11 +32,11 @@ IEEE Symposium on Security and Privacy (S&P), 466-483, 2021. [video](https://www
 P Civit, S Gilbert, V Gramoli. 
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021. [video](https://www.youtube.com/watch?v=OUPWY9SPV6Q)
 
-- [Leaderless Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ICDCS2021-leaderless.pdf)
+- [Leaderless Consensus](../pubs/ICDCS2021-leaderless.pdf)
 K. Antoniadis, A. Desjardins, V. Gramoli, R. Guerraoui, I. Zablotchi.
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 392-402, 2021, **Best Paper Award**. [video](https://youtu.be/gPrdhebjTM0)
 
-- [The attack of the clones against proof-of-authority](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Clone-PoA-NDSS.pdf).
+- [The attack of the clones against proof-of-authority](../pubs/Clone-PoA-NDSS.pdf).
 P Ekparinya, V Gramoli, G Jourjon.
 27th Annual Network and Distributed System Security Symposium (NDSS), 2020.
 Community Ethereum Development Conference, 2019. [video](https://www.youtube.com/watch?v=wQyvIy4FCEw)
@@ -45,7 +45,7 @@ Community Ethereum Development Conference, 2019. [video](https://www.youtube.com
 V Gramoli.
 Future Generation Computer Systems 107, 760-769, 2020.
 
-- [The balance attack or why forkable blockchains are ill-suited for consortium](http://redbellyrw.cluster021.hosting.ovh.net/pubs/Balance_Attack_DSN17.pdf).
+- [The balance attack or why forkable blockchains are ill-suited for consortium](../pubs/Balance_Attack_DSN17.pdf).
 C Natoli, V Gramoli.
 47th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2017.
 
@@ -53,7 +53,7 @@ C Natoli, V Gramoli.
 X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
 13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016.
 
-- [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms](http://redbellyrw.cluster021.hosting.ovh.net/pubs/gramoli-synchrobench.pdf).
+- [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms](../pubs/gramoli-synchrobench.pdf).
 V Gramoli.
 Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2015.
 
