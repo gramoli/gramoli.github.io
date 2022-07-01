@@ -57,6 +57,10 @@ C Natoli, V Gramoli.
 X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
 13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016.
 
+- [The Blockchain Anomaly](../../pubs/Blockchain_Anomaly.pdf).
+C Natoli, V Gramoli.
+15th IEEE International Symposium on Network Computing and Applications (NCA), 2016.
+
 - [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms](../pubs/gramoli-synchrobench.pdf).
 V Gramoli.
 Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2015.
