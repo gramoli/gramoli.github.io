@@ -28,6 +28,10 @@ A. Ranchal Pedrosa, V. Gramoli.
 T Crain, C Natoli, V Gramoli.
 IEEE Symposium on Security and Privacy (S&P), 466-483, 2021. [video](https://www.youtube.com/watch?v=IlIXrqSie9A)
 
+- [BA: Ordered Reliable Broadcast and Fast Ordered Byzantine Consensus for Cryptocurrency](https://drops.dagstuhl.de/opus/volltexte/2021/14865/pdf/LIPIcs-DISC-2021-63.pdf).
+P. Zarbafian, V. Gramoli:
+35th International Symposium on Distributed Computing (DISC), 2021. [video](https://youtu.be/DYN1jifeWGY)
+
 - [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf).
 P Civit, S Gilbert, V Gramoli. 
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021. [video](https://www.youtube.com/watch?v=OUPWY9SPV6Q)
