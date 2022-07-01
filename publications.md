@@ -2,21 +2,21 @@
 
 ## Selected Publications
 
-- [BA: Holistic Verification of Blockchain Consensus](http://redbellyrw.cluster021.hosting.ovh.net/pubs/formal-verif.pdf).
+- [BA: Holistic Verification of Blockchain Consensus](../pubs/formal-verif.pdf).
 N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
 ACM Symposium on Distributed Computing (PODC), 2022.
 
-- [Dynamic Blockchain Sharding](http://redbellyrw.cluster021.hosting.ovh.net/pubs/FAB22-Sharding.pdf).
+- [Dynamic Blockchain Sharding](../pubs/FAB22-Sharding.pdf).
 D. Tennakoon, V. Gramoli. 
 5th International Symposium on Foundations and Applications of Blockchain (FAB), 2022.
 
 - [Crime and Punishment in Distributed Byzantine
-Decision Tasks](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ICDCS2022.pdf).
+Decision Tasks](../pubs/ICDCS2022.pdf).
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. 
 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
 
 - [As easy as ABC: Optimal (A)ccountable
-(B)yzantine (C)onsensus is easy!](http://redbellyrw.cluster021.hosting.ovh.net/pubs/ABC-IPDPS2022)
+(B)yzantine (C)onsensus is easy!](../pubs/ABC-IPDPS2022)
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2022, **Best Paper Award**.
 
