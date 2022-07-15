@@ -19,7 +19,7 @@ P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. S
 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, **Best Paper Award**.
 
 - [As easy as ABC: Optimal (A)ccountable
-(B)yzantine (C)onsensus is easy!](../pubs/ABC-IPDPS2022)
+(B)yzantine (C)onsensus is easy!](../pubs/ABC-IPDPS2022.pdf)
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2022, **Best Paper Award**.
 
