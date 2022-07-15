@@ -2,6 +2,9 @@
 
 ## Selected Publications
 
+- Basilic: Resilient Optimal Consensus Protocols With Benign and Deceitful Faults.
+A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CSF), 2023.
+
 - [BA: Holistic Verification of Blockchain Consensus](../pubs/formal-verif.pdf).
 N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
 ACM Symposium on Distributed Computing (PODC), 2022.
@@ -13,7 +16,7 @@ D. Tennakoon, V. Gramoli.
 - [Crime and Punishment in Distributed Byzantine
 Decision Tasks](../pubs/ICDCS2022.pdf).
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. 
-42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
+42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, **Best Paper Award**.
 
 - [As easy as ABC: Optimal (A)ccountable
 (B)yzantine (C)onsensus is easy!](../pubs/ABC-IPDPS2022)
