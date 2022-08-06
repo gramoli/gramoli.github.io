@@ -5,6 +5,9 @@
 - Basilic: Resilient Optimal Consensus Protocols With Benign and Deceitful Faults.
 A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CSF), 2023.
 
+- Leveraging Democracy to Optimize Distributed Random Beacons.
+A. Ranchal-Pedrosa, V. Gramoli. ACM ConsensusDay, 2022.
+
 - Holistic Verification of Blockchain Consensus
 N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
 36th International Symposium on Distributed Computing (DISC), 2022.
@@ -16,6 +19,9 @@ P. Civit, M. A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M
 - [BA: Holistic Verification of Blockchain Consensus](../pubs/formal-verif.pdf).
 N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
 ACM Symposium on Distributed Computing (PODC), 2022.
+
+- [Transparent Sharding](../pubs/DEB22-Sharding.pdf). 
+D. Tennakoon, V. Gramoli. IEEE Data Engineering Bulletin, 45(2), June 2022.
 
 - [Dynamic Blockchain Sharding](../pubs/FAB22-Sharding.pdf).
 D. Tennakoon, V. Gramoli. 
