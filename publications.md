@@ -11,11 +11,11 @@ A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CS
 - Leveraging Democracy to Optimize Distributed Random Beacons.
 A. Ranchal-Pedrosa, V. Gramoli. ACM ConsensusDay, 2022.
 
-- Holistic Verification of Blockchain Consensus
+- [Holistic Verification of Blockchain Consensus](../pubs/DISC22-holistic-verification.pdf)
 N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
 36th International Symposium on Distributed Computing (DISC), 2022.
 
-- Byzantine Consensus is Theta(n^2): The Dolev-Reischuk Bound is Tight even in Partial Synchrony!
+- [Byzantine Consensus is Theta(n^2): The Dolev-Reischuk Bound is Tight even in Partial Synchrony!](../pubs/DISC22-quadratic-consensus.pdf)
 P. Civit, M. A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira.
 36th International Symposium on Distributed Computing (DISC), 2022.
 
