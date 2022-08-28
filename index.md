@@ -4,4 +4,6 @@ Vincent Gramoli is a Director and the CTO of Redbelly Network. He received a Fut
 
 Vincent Gramoli publishes in distributed systems and security journals and conferences (IEEE S&P, TPDS, CACM, PPoPP, NDSS, EuroSys, DSN), he served as Program Committee (co-)Chair of international scientific conferences (NETYS'13, FAB'21, Tokenomics'21, OPODIS'21) and is regularly invited as a speaker. He co-published the [Consistent Distributed Storage book](https://www.morganclaypool.com/doi/10.2200/S01069ED1V01Y202012DCT017).
 
+[Blockchain Scalability book](/assets/book.png)
+
 His recent focus is on blockchain technology. With his lab, he found and reported several security flaws in Ethereum in 2016, 2017, 2019 and 2021. As an alternative, they proposed the Red Belly Blockchain, a secure blockchain whose performance scales to world-wide deployments. With his co-authors, he received the best paper awards at ICDCS'21 and IPDPS'22 for their leaderless consensus algorithm and for making consensus algorithms accountable. His [Blockchain Scalability MOOC](https://www.coursera.org/teach/blockchain-scalability/course/overview) on Coursera is taken by thousands of students.
