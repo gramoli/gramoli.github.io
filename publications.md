@@ -2,6 +2,9 @@
 
 ## Selected Publications
 
+- Diablo: A Benchmark Suite for Blockchains. 
+V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
+
 - [Blockchain Scalability and its Foundations in Distributed Systems](https://link.springer.com/book/10.1007/978-3-031-12578-2?sap-outbound-id=01A0D4B2C34832A82322B1C66819B239A93AED40).
 V. Gramoli. Springer, ISBN:978-3-031-12577-5, 2022. [course](https://www.coursera.org/learn/blockchain-scalability)
 
