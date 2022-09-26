@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-- [Diablo: A Benchmark Suite for Blockchains](Eurosys23-Diablo.pdf). 
+- [Diablo: A Benchmark Suite for Blockchains](../pubs/Eurosys23-Diablo.pdf). 
 V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
 
 - Basilic: Resilient Optimal Consensus Protocols With Benign and Deceitful Faults.
