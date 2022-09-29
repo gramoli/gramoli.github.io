@@ -10,6 +10,8 @@ comments: true
 
 ### Recent Research Events
 
+- [Meridian 2022](https://meridian.stellar.org/speakers) - Keynote speaker
+- [VLDB 2022](https://vldb.org/2022/?program-schedule-panel) - Panelist
 - [ConsensusDay 2022](https://research.protocol.ai/sites/consensusday22/) - PC member
 - [APSys 2022](https://ap-sys.org/) - PC member
 - [SSS 2022](https://sss2022.limos.fr/) - PC member
