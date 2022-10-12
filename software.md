@@ -5,15 +5,10 @@
 [Diablo](https://diablobench.github.io/) is a benchmark to evaluate blockchain systems on the same ground. It was developed in a partnership 
 between University of Sydney and the Swiss Federal Institute of Technology Lausanne (EPFL) to evaluate blockchain and distributed ledger 
 technologies when running realistic applications. The name Diablo stems from DIstributed Analytical BLOckchain benchmark. If you use Diablo, 
-feel free to cite the appropriate technical report for v2 and v1:
+please mention the reference:
 
-[Diablo-v2: A Benchmark for Blockchain Systems](https://infoscience.epfl.ch/record/294268?ln=en). V. Gramoli, R. Guerraoui, A. Lebedev, 
-C. Natoli and G. Voron. Technical Report 294268, Infoscience, 2022.
-
-[Diablo: A Distributed Analytical Blockchain Benchmark Framework Focusing on Real-World 
-Workloads](https://infoscience.epfl.ch/record/285731?ln=en). H. Benoit, V. Gramoli, R. Guerraoui, C. Natoli. 
-Technical Report 287288, Infoscience, 2021.
-
+[Diablo: A Benchmark Suite for Blockchains](../pubs/Eurosys23-Diablo.pdf). 
+V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
 
 ## Synchrobench
 
