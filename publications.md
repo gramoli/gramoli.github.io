@@ -11,7 +11,7 @@ A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CS
 - [Blockchain Scalability and its Foundations in Distributed Systems](https://link.springer.com/book/10.1007/978-3-031-12578-2?sap-outbound-id=01A0D4B2C34832A82322B1C66819B239A93AED40).
 V. Gramoli. Springer, ISBN:978-3-031-12577-5, 2022. [course](https://www.coursera.org/learn/blockchain-scalability)
 
-- [Leveraging Democracy to Optimize Distributed Random Beacons](ConsensusDay23-Kleroterion.pdf).
+- [Leveraging Democracy to Optimize Distributed Random Beacons](../pubs/ConsensusDay23-Kleroterion.pdf).
 A. Ranchal-Pedrosa, V. Gramoli. ACM ConsensusDay, 2022.
 
 - [Holistic Verification of Blockchain Consensus](../pubs/DISC22-holistic-verification.pdf)
