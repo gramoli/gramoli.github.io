@@ -45,7 +45,7 @@ P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
 
 - [TRAP: The Bait of Rational Players to Solve Byzantine Consensus](../pubs/TRAP-AsiaCCS2022.pdf).
 A. Ranchal Pedrosa, V. Gramoli.
-17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2022.
+17th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2022. [video](https://www.youtube.com/watch?v=lWyKww4BkcA)
 
 - [Red Belly: A secure, fair and scalable open blockchain](../pubs/redbellyblockchain-oakland21.pdf).
 T Crain, C Natoli, V Gramoli.
