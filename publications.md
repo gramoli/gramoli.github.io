@@ -11,6 +11,9 @@ A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CS
 - [Blockchain Scalability and its Foundations in Distributed Systems](https://link.springer.com/book/10.1007/978-3-031-12578-2?sap-outbound-id=01A0D4B2C34832A82322B1C66819B239A93AED40).
 V. Gramoli. Springer, ISBN:978-3-031-12577-5, 2022. [course](https://www.coursera.org/learn/blockchain-scalability)
 
+- [SAZyzz: Scaling AZyzzyva to Meet Blockchain Requirements](https://ieeexplore.ieee.org/abstract/document/9920227).
+N. Sohrabi, Z. Tari, G. Voron, V. Gramoli and Q. Fu. IEEE Transactions on Services Computing, 2022, doi: 10.1109/TSC.2022.3214976.
+
 - [Leveraging Democracy to Optimize Distributed Random Beacons](../pubs/ConsensusDay23-Kleroterion.pdf).
 A. Ranchal-Pedrosa, V. Gramoli. ACM ConsensusDay, 2022.
 
