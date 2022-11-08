@@ -10,7 +10,7 @@ comments: true
 
 ### Recent Research Events
 
-- [Meridian 2022](https://meridian.stellar.org/speakers) - Keynote speaker
+- [Meridian 2022](https://meridian.stellar.org/speakers) - Keynote speaker ([slides](../slides/gramoli-meridian22-final.pdf), [video](https://youtu.be/E4Ie7gb41PY))
 - [VLDB 2022](https://vldb.org/2022/?program-schedule-panel) - Panelist
 - [ConsensusDay 2022](https://research.protocol.ai/sites/consensusday22/) - PC member
 - [APSys 2022](https://ap-sys.org/) - PC member
