@@ -2,6 +2,15 @@
 
 ## Selected Publications
 
+- Delos: Fast and Scalable Resilience to Reordering Attacks in Blockchains.
+P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
+
+- [Smart Red Belly Blockchain: Reducing Congestion for Web3](https://arxiv.org/pdf/2207.05971.pdf). 
+D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
+
+- [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](https://arxiv.org/pdf/2207.02711.pdf).
+The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
+
 - [Diablo: A Benchmark Suite for Blockchains](../pubs/Eurosys23-Diablo.pdf). 
 V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
 
