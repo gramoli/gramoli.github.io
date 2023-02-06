@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-- Delos: Fast and Scalable Resilience to Reordering Attacks in Blockchains.
+- Lyra: Fast and Scalable Resilience to Reordering Attacks in Blockchains.
 P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
 
 - [Smart Red Belly Blockchain: Reducing Congestion for Web3](https://arxiv.org/pdf/2207.05971.pdf). 
