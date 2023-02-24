@@ -10,7 +10,7 @@ comments: true
 
 ### Recent Research Events
 
-- [Australian Blockchain Security Summit](https://blockchainaustralia.org/australian-blockchain-security-summit/) - Panelist
+- [Australian Blockchain Security Summit 2023](https://blockchainaustralia.org/australian-blockchain-security-summit/) - Panelist
 - [ACE Summer School 2023](https://acesummerschool.github.io/) - Keynote speaker ([slides](../slides/TPS-2023.pdf))
 - [Meridian 2022](https://meridian.stellar.org/speakers) - Keynote speaker ([slides](../slides/gramoli-meridian22-final.pdf), [video](https://youtu.be/E4Ie7gb41PY))
 - [VLDB 2022](https://vldb.org/2022/?program-schedule-panel) - Panelist
