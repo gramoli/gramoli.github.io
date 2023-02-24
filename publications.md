@@ -2,6 +2,10 @@
 
 ## Selected Publications
 
+
+- [Leaderless Consensus](../pubs/JPDC-LeaderlessConsensus.pdf).
+K. Antoniadisa, J. Benhaima, A. Desjardinsa, P. Eliasa, V. Gramolia, R. Guerraouia, G. Vorona, I. Zablotchic. Journal of Parallel and Distributed Computing, 2023.
+
 - [Lyra: Fast and Scalable Resilience to Reordering Attacks in Blockchains](../pubs/IPDPS23-Lyra.pdf).
 P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
 
