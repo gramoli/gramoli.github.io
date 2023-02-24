@@ -5,7 +5,7 @@
 - [Lyra: Fast and Scalable Resilience to Reordering Attacks in Blockchains](../pubs/IPDPS23-Lyra.pdf).
 P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
 
-- [Smart Redbelly Blockchain: Reducing Congestion for Web3](https://arxiv.org/pdf/2207.05971.pdf). 
+- [Smart Redbelly Blockchain: Reducing Congestion for Web3](../pubs/IPDPS23-SmartRedbelly.pdf). 
 D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
 
 - [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](https://arxiv.org/pdf/2207.02711.pdf).
