@@ -2,6 +2,9 @@
 
 ## Selected Publications
 
+- Cross-Chain Payment Protocols with Success Guarantees.
+R. van Glabbeek, V. Gramoli, P. Tholoniat. 
+To appear in Distributed Computing.
 
 - [Leaderless Consensus](../pubs/JPDC-LeaderlessConsensus.pdf).
 K. Antoniadis, J. Benhaim, A. Desjardins, P. Elias, V. Gramoli, R. Guerraoui, G. Voron, I. Zablotchi. Journal of Parallel and Distributed Computing, 2023.
