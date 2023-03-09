@@ -15,7 +15,7 @@ P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Process
 - [Smart Redbelly Blockchain: Reducing Congestion for Web3](../pubs/IPDPS23-SmartRedbelly.pdf). 
 D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
 
-- [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](https://arxiv.org/pdf/2207.02711.pdf).
+- [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](../pubs/CCGrid23-GovernanceReconfiguration.pdf).
 The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
 
 - [Diablo: A Benchmark Suite for Blockchains](../pubs/Eurosys23-Diablo.pdf). 
@@ -78,7 +78,7 @@ P. Zarbafian, V. Gramoli:
 P Civit, S Gilbert, V Gramoli. 
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021. [video](https://www.youtube.com/watch?v=OUPWY9SPV6Q)
 
-- [Leaderless Consensus](../pubs/ICDCS2021-leaderless.pdf)
+- [Leaderless Consensus](../pubs/ICDCS2021-leaderless.pdf).
 K. Antoniadis, A. Desjardins, V. Gramoli, R. Guerraoui, I. Zablotchi.
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 392-402, 2021, **Best Paper Award**. [video](https://youtu.be/gPrdhebjTM0)
 
