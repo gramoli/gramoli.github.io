@@ -15,6 +15,9 @@ P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Process
 - [Smart Redbelly Blockchain: Reducing Congestion for Web3](../pubs/IPDPS23-SmartRedbelly.pdf). 
 D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
 
+- [Planetary Scale Byzantine Consensus ](../pubs/2023-applied.pdf).
+G. Voron, V. Gramoli. ACM Workshop on Advanced tools, programming languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED), 2023.
+
 - [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](../pubs/CCGrid23-GovernanceReconfiguration.pdf).
 The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
 
