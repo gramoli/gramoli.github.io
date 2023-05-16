@@ -4,10 +4,10 @@
 
 - [Cross-Chain Payment Protocols with Success Guarantees](../pubs/DC23-CrossChain-Preprint.pdf).
 R. van Glabbeek, V. Gramoli, P. Tholoniat. 
-To appear in Distributed Computing.
+Distributed Computing, 2023, doi: 10.1007/s00446-023-00446-0.
 
 - [Leaderless Consensus](../pubs/JPDC23-Leaderless-Preprint.pdf).
-K. Antoniadis, J. Benhaim, A. Desjardins, P. Elias, V. Gramoli, R. Guerraoui, G. Voron, I. Zablotchi. Journal of Parallel and Distributed Computing, 2023.
+K. Antoniadis, J. Benhaim, A. Desjardins, P. Elias, V. Gramoli, R. Guerraoui, G. Voron, I. Zablotchi. Journal of Parallel and Distributed Computing, 2023, doi: 10.1016/j.jpdc.2023.01.009.
 
 - [Lyra: Fast and Scalable Resilience to Reordering Attacks in Blockchains](../pubs/IPDPS23-Lyra.pdf).
 P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
