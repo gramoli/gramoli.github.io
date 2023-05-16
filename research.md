@@ -10,6 +10,9 @@ comments: true
 
 ### Recent Research Events
 
+- [Blockchain week 2023](https://blockchainweek.com.au/) - Panelist
+- [SSS 2023](https://www.stabilizationsafetysecurity2023.com/) - PC member
+- [EuroSys 2023](https://2023.eurosys.org/) - Speaker
 - [Australian Blockchain Security Summit 2023](https://blockchainaustralia.org/australian-blockchain-security-summit/) - Panelist
 - [ACE Summer School 2023](https://acesummerschool.github.io/) - Keynote speaker ([slides](../slides/TPS-2023.pdf))
 - [Meridian 2022](https://meridian.stellar.org/speakers) - Keynote speaker ([slides](../slides/gramoli-meridian22-final.pdf), [video](https://youtu.be/E4Ie7gb41PY))
