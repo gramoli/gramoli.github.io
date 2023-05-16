@@ -19,7 +19,7 @@ D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed
 The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
 
 - [Diablo: A Benchmark Suite for Blockchains](../pubs/Eurosys23-Diablo.pdf). 
-V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
+V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023. [slides](EuroSys2023.pdf)
 
 - [Basilic: Resilient Optimal Consensus Protocols With Benign and Deceitful Faults](../pubs/CSF23-Basilic.pdf).
 A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CSF), 2023.
