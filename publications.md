@@ -2,6 +2,10 @@
 
 ## Selected Publications
 
+- [The Future of Blockchain Consensus](https://dl.acm.org/doi/pdf/10.1145/3589225).
+  V. Gramoli, Q. Tang.
+  Communications of the ACM, 2023, vol 66, no 7, doi:10.1145/3589225.
+
 - [Cross-Chain Payment Protocols with Success Guarantees](../pubs/DC23-CrossChain-Preprint.pdf).
 R. van Glabbeek, V. Gramoli, P. Tholoniat. 
 Distributed Computing, 2023, doi: 10.1007/s00446-023-00446-0.
