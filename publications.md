@@ -23,7 +23,7 @@ D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed
 G. Voron, V. Gramoli. ACM Workshop on Advanced tools, programming languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED), 2023.
 
 - [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](../pubs/CCGrid23-GovernanceReconfiguration.pdf).
-The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
+D. Tennakoon, V. Gramoli. The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
 
 - [Diablo: A Benchmark Suite for Blockchains](../pubs/Eurosys23-Diablo.pdf). 
 V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023. [slides](../slides/EuroSys2023.pdf)
