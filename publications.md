@@ -2,6 +2,14 @@
 
 ## Selected Publications
 
+- [As easy as ABC: Optimal (A)ccountable (B)yzantine (C)onsensus is easy!](../pubs/JPDC2023-ABC-preprint.pdf)
+  P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
+  Journal of Parallel and Distributed Computing (JPDC), 2023.
+
+- [How To Benchmark Permissioned Blockchains](../pubs/TPCTC2023-preprint.pdf)
+  J. A. Chacko, R. Mayer, A. Fekete, V. Gramoli and H.-A. Jacobsen.
+  15th TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC), 2023.
+
 - [The Future of Blockchain Consensus](https://dl.acm.org/doi/pdf/10.1145/3589225).
   V. Gramoli, Q. Tang.
   Communications of the ACM, 2023, vol 66, no 7, doi:10.1145/3589225.
