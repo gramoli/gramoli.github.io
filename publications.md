@@ -2,6 +2,10 @@
 
 ## Selected Publications
 
+- [Aion: Secure Transaction Ordering using TEEs](../pubs/ESORICS23-aion.pdf)
+  P. Zarbafian, V. Gramoli.
+  8th European Symposium on Research in Computer Security (ESORICS), 2023.
+
 - [As easy as ABC: Optimal (A)ccountable (B)yzantine (C)onsensus is easy!](../pubs/JPDC2023-ABC-preprint.pdf)
   P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
   Journal of Parallel and Distributed Computing (JPDC), 2023.
