@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-- [Aion: Secure Transaction Ordering using TEEs](../pubs/ESORICS23-aion.pdf)
+- [Aion: Secure Transaction Ordering using TEEs](../pubs/ESORICS23-Aion.pdf)
   P. Zarbafian, V. Gramoli.
   8th European Symposium on Research in Computer Security (ESORICS), 2023.
 
