@@ -10,6 +10,9 @@ comments: true
 
 ### Recent Research Events
 
+- [Conference on Principles of Distributed Systems 2023](https://xdefago.github.io/opodis23/) - Keynote Speaker
+- [Symposium on Distributed Ledger Technology 2023](https://symposium-dlt.org/) - Keynote Speaker
+- [FinTech Australia Intersekt 2023](https://www.intersektfestival.com/) - Panelist
 - [Blockchain week 2023](https://blockchainweek.com.au/) - Panelist
 - [SSS 2023](https://www.stabilizationsafetysecurity2023.com/) - PC member
 - [EuroSys 2023](https://2023.eurosys.org/) - Speaker ([slides](../slides/EuroSys2023.pdf))
