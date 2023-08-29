@@ -101,7 +101,7 @@ IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 202
 K. Antoniadis, A. Desjardins, V. Gramoli, R. Guerraoui, I. Zablotchi.
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 392-402, 2021, **Best Paper Award**. [video](https://youtu.be/gPrdhebjTM0)
 
-- [The Performance of Byzantine Fault Tolerant Blockchains](NCA20.pdf)
+- [The Performance of Byzantine Fault Tolerant Blockchains](../pubs/NCA20.pdf)
 G. Shapiro, C. Natoli, V. Gramoli.
 19th IEEE International Symposium on Network Computing and Applications (NCA), p.1-8, 2020.
 
@@ -110,7 +110,7 @@ P Ekparinya, V Gramoli, G Jourjon.
 27th Annual Network and Distributed System Security Symposium (NDSS), 2020.
 Community Ethereum Development Conference, 2019. [video](https://www.youtube.com/watch?v=wQyvIy4FCEw)
 
-- [On the performance of distributed ledgers for Internet of Things](IoT2019.pdf).
+- [On the performance of distributed ledgers for Internet of Things](../pubs/IoT2019.pdf).
 R. Han, G. Shapiro, V. Gramoli, X. Xu. Internet Things 10: 100087, 2020.
 
 - [From blockchain consensus back to Byzantine consensus](https://www.researchgate.net/publication/319984012_From_blockchain_consensus_back_to_Byzantine_consensus).
