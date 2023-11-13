@@ -13,6 +13,7 @@ comments: true
 - [Conference on Principles of Distributed Systems 2023](https://xdefago.github.io/opodis23/) - Keynote Speaker
 - [Symposium on Distributed Ledger Technology 2023](https://symposium-dlt.org/) - Keynote Speaker
 - [French-Japanese workshop on blockchain technologies and applications to digital trust 2023](https://dal.sfc.keio.ac.jp/en/events/2023_10_23-fr-jp-ws/) - Invited Speaker
+- [The Future of Digital Assets & Compliance](https://dfcrc.com.au/) - Panelist
 - [FinTech Australia Intersekt 2023](https://www.intersektfestival.com/) - Panelist
 - [Blockchain week 2023](https://blockchainweek.com.au/) - Panelist
 - [SSS 2023](https://www.stabilizationsafetysecurity2023.com/) - PC member
