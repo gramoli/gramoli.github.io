@@ -5,7 +5,7 @@
 - [On the Relevance of Blockchain Evaluations on
 Bare Metal](../pubs/SDLT_2023.pdf).
 A. Lebedev, V. Gramoli.
-7th Symposium on Distributed Ledger Technologies (SDLT), 2023.
+7th Symposium on Distributed Ledger Technologies (SDLT), 2023. [related poster](../pubs/EuroSys23-SDLT23.pdf)
 
 - [Aion: Secure Transaction Ordering using TEEs](../pubs/ESORICS23-Aion.pdf).
   P. Zarbafian, V. Gramoli.
