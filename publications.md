@@ -2,6 +2,11 @@
 
 ## Selected Publications
 
+- [On the Relevance of Blockchain Evaluations on
+Bare Metal](../pubs/SDLT_2023.pdf).
+A. Lebedev, V. Gramoli.
+7th Symposium on Distributed Ledger Technologies (SDLT), 2023.
+
 - [Aion: Secure Transaction Ordering using TEEs](../pubs/ESORICS23-Aion.pdf).
   P. Zarbafian, V. Gramoli.
   8th European Symposium on Research in Computer Security (ESORICS), 2023.
