@@ -6,18 +6,19 @@ description: This blog aims at being thought provoking and covers subjects relat
 permalink: /blog/
 author_profile: false
 ---
-<h1>Latest Posts</h1>
+<h1>Blog - Thinking Distributed</h1>
 
+<h2>Latest Posts</h2>
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       {{ post.excerpt - post.tags }}
     </li>
   {% endfor %}
 </ul>
 
-<h1>Tags</h1>
+<h2>Tags</h2>
 <ul>
 {% for tag in site.tags %}
   <li>
