@@ -10,7 +10,7 @@ Non-dictatorship is vital to the existence of blockchain governance. In particul
 
 In order to ensure non-dictatorship in blockchain governance, let's try to define this notion in the blockchain context. The blockchain governance is the set of rules in place to decide upon important changes that impact the blockchain protocol (e.g., its upgrades, its governance reconfiguration).  Such a change must happen only if multiple nodes decide so, to prevent a single node going rogue from compromising the entire blockchain protocol. Note that for this change to happen, the nodes have to reach consensus. 
 
-![Dictatorship](/img/dictatorship.jpeg){: width="150" }
+![Dictatorship](/img/dictatorship.jpg){: width="150" }
 
 However, it is well known that consensus cannot be reached in the general setting (where the time it takes to deliver a message is unknown) unless the number of misbheaving (or Byzantine) nodes among n nodes is <i>f < n/3</i> [2]. To prevent dicatorship in blockchain it is thus crucial to make sure that no nodes, even when part of a coalition of <i>f < n/3</i> nodes, can dictate the governance. We can thus define non-dictatorship for blockchain as the ability to prevent a single adversary, controlling up to <i>f < n/3</i> Byzantine nodes, from imposing their individual preference as the election outcome.
 
