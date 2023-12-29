@@ -6,7 +6,7 @@ description: This blog aims at being thought provoking and covers subjects relat
 permalink: /blog/
 author_profile: false
 ---
-[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications) | [Blog](blog)
+[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications) | [Blog](../blog)
 
 <h1>Blog - Thinking Distributed</h1>
 
