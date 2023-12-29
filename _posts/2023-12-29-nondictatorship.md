@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Vincent
+tags: social_choice governance
 ---
 
 Why is non-dictatorship relevant in blockchain governance?
