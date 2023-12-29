@@ -17,13 +17,12 @@ author_profile: false
   {% endfor %}
 </ul>
 
+<h1>Tags</h1>
 <ul>
 {% for tag in site.tags %}
-  <h2>{{ tag[0] }}</h2>
-  <ul>
+  {{ tag[0] }}
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;
     {% endfor %}
-  </ul>
 {% endfor %}
 </ul>
