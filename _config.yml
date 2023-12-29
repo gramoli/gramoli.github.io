@@ -2,7 +2,3 @@ theme: jekyll-theme-minimal
 title: Vincent Gramoli
 logo: img/vincent-gramoli.png
 description: School of Computer Science <br /> 1, Cleveland St., <br /> NSW 2006 Sydney<br /><a href="mailto:firstname.lastname@sydney.edu.au">firstname.lastname@sydney.edu.au</a><br />
-collections:
-  tags:
-    output: true
-    permalink: tags/:path/
