@@ -12,7 +12,7 @@ author_profile: false
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}&nbsp;-&nbsp;{{ post.tags }}
+      {{ post.excerpt - post.tags }}
     </li>
   {% endfor %}
 </ul>
