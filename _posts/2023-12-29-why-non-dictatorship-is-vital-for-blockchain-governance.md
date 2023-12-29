@@ -12,7 +12,7 @@ In order to ensure non-dictatorship in blockchain governance, let's try to defin
 
 However, it is well known that consensus cannot be reached in the general setting (where the time it takes to deliver a message is unknown) unless the number of misbheaving (or Byzantine) nodes among n nodes is <i>f < n/3</i> [2]. To prevent dicatorship in blockchain it is thus crucial to make sure that no nodes, even when part of a coalition of <i>f < n/3</i> nodes, can dictate the governance. We can thus define non-dictatorship for blockchain as the ability to prevent a single adversary, controlling up to <i>f < n/3</i> Byzantine nodes, from imposing their individual preference as the election outcome.
 
-We have recently devised a governance protocol to allow the governance to take important decisions while ensuring non-dictatorship at all times. Theorem 2 of [3] shows how we ensure this property and we implemented this governance as a smart contract to show that a large set of nodes can take decisions in a pratical way.
+We have recently devised a blockchain governance protocol to allow the governance to take important decisions while ensuring non-dictatorship at all times. Theorem 2 of [3] shows how we ensure this property. We implemented this governance protocol as a smart contract to show that a large set of nodes can take decisions without dictatorship in a pratical way.
 
 [1] K. J. Arrow, [A difficulty in the concept of social welfare.](https://www.jstor.org/stable/1828886) Journal of Political Economy, vol. 58, no. 4, pp. 328–346, 1950.
 
