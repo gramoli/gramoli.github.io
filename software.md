@@ -1,4 +1,4 @@
-[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications)
+[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications) | [Blog](blog)
 
 ## Diablo
 
