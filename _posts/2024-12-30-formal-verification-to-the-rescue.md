@@ -4,7 +4,7 @@ author: Vincent
 tags: security consensus
 ---
 
-As new flaw in the Solana consensus protocol will be presented in four days [1], it might be time the right time to discuss the importance of formal methods.
+As new flaw in the Solana consensus protocol will be presented in four days [1], it might be the right time to discuss the importance of formal methods.
 Classic blockchains had a hard time being adopted in production. When the largest bank of Australia asked me to do some consulting work, 
 I had to inform them that the way they were using Ethereum was flawed as we managed to hack a copy of their setup [2]. 
 After we reported the vulnerability to both Geth and Parity security teams, they both acknowledged the problem but it took some time for 
