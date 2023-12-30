@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Vincent Gramoli
+author: Vincent
 tags: security consensus
 ---
 
