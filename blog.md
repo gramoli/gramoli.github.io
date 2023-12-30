@@ -19,15 +19,3 @@ author_profile: false
     </li>
   {% endfor %}
 </ul>
-
-<h2>Tags</h2>
-<ul>
-{% for tag in site.tags %}
-  <li>
-  {{ tag[0] }}
-    {% for post in tag[1] %}
-      <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;
-    {% endfor %}
-  </li>
-{% endfor %}
-</ul>
