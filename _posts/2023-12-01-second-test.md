@@ -1,5 +1,7 @@
 ---
 layout: post
+author: Vincent
+tags: governance verification
 ---
 
 As new flaw in the Solana consensus protocol will be presented in four days [1], it might be the right time to discuss the importance of formal methods.
