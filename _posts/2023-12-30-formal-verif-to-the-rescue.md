@@ -19,14 +19,14 @@ of the consortium. This work was the first blockchain work ever published in the
 
 To summarize the problem, note that classic blockchains do not solve consensus to agree on a unique block before this block gets appended to the chain. 
 Sometimes this is intentional: Ethereum and Bitcoin fork but try to reach consensus later on. Sometimes it is not intentional: Tendermint, 
-HoneyBadgerBFT, Quorum, Ripple had some flaws [4], just like Solana [1].  The problem is the same whether it is intentional: not solving consensus leads to uncertainty: is the network stuck or is it telling me that my transaction is committed while it will be reverted?
+HoneyBadgerBFT, Quorum, Ripple had some flaws [4], just like Solana [1].  The problem is the same whether it is intentional: not solving consensus leads to uncertainty so it is hard to understand whether the network stuck or to realise that my transaction is committed while it will be reverted.
 Because the key ingredient to steal assets is precisely to convince someone that the transaction paying her is committed and then rolling it back later on.
 
-Knowing all the flaws that were reported about consensus protocols used in blockchain, we took the decision of formally verifying the consensus protocol, 
-DBFT, we use in our blockchains. First, the flaws we saw is the tip of the iceberg and they are probably many more problems we are not aware of.
-Second, hand written proofs are insufficient due to the complexity of the consensus protocol and the fact that human are prone to errors. 
-After a couple of years of collaboration with expert in formal methods from Australia, Austria, France, Germany and US, we finally managed to formally verify 
-a blockchain consensus protocol [5] using threshold automata as illustrated in the figure below. Thanks to parameterised model checking, 
+Knowing all the flaws that were reported about consensus protocols used in blockchains, we took the decision of formally verifying the consensus protocol, 
+DBFT, we use in our blockchain. First, the flaws we saw is the tip of the iceberg and they are probably many more problems we are not aware of.
+Second, hand written proofs are insufficient due to the complexity of the consensus protocol and the fact that humans are prone to errors. 
+After a couple of years of collaboration with experts in formal methods from Australia, Austria, France, Germany and US, we finally managed to formally verify 
+our blockchain consensus protocol [5] using threshold automata as illustrated in the figure below. Thanks to parameterised model checking, 
 we were able to show (provided that the model checker and the environment is 
 correct) that our protocol solves the consensus protocol in any possible executions of any system sizes.
 
