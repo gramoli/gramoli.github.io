@@ -4,11 +4,8 @@ author: Vincent Gramoli
 title: Blog - Thinking Distributed 
 description: This blog aims at being thought provoking and covers subjects related to the distributed nature of blockchain systems.
 permalink: /blog/
-author_profile: false
+author_profile: true
 ---
-[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications) | [Blog](../blog)
-
-<h1>Blog - Thinking Distributed</h1>
 
 <h2>Latest Posts</h2>
 <ul>
