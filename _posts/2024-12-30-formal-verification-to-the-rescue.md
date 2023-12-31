@@ -15,11 +15,11 @@ The crux of the problem is that the consensus problem at the heart of blockchain
 decades on this problem. I have only worked for two decades on this problem, but I still started way before Bitcoin came out. 
 The first time I looked at how the traditional finance industry was using blockchain was when I talked to R3, that at the time were using Ethereum. 
 After some experiments, my student and myself came to the conclusion that one node of their network could easily steal the assets of all other partners 
-of the consortium. This work was the first blockchain work ever published in the largest scientific conference of the dependable community [3].
+of the consortium. This work was the first blockchain work ever published in the flagship conference of the dependable scientific community [3].
 
 To summarize the problem, note that classic blockchains do not solve consensus to agree on a unique block before this block gets appended to the chain. 
-Sometimes this is intentional: Ethereum and Bitcoin fork in order to try to reach consensus later on. Sometimes it is not intentional: Tendermint, 
-HoneyBadgerBFT, Quorum, Ripple had some flaws [4], just like Solana [1].  The problem is the same: when the consensus is not reached, then we have some uncertainty: is the network stuck or is it telling me that my transaction is committed while it will be reverted?
+Sometimes this is intentional: Ethereum and Bitcoin fork but try to reach consensus later on. Sometimes it is not intentional: Tendermint, 
+HoneyBadgerBFT, Quorum, Ripple had some flaws [4], just like Solana [1].  The problem is the same whether it is intentional: not solving consensus leads to uncertainty: is the network stuck or is it telling me that my transaction is committed while it will be reverted?
 Because the key ingredient to steal assets is precisely to convince someone that the transaction paying her is committed and then rolling it back later on.
 
 Knowing all the flaws that were reported about consensus protocols used in blockchain, we took the decision of formally verifying the consensus protocol, 
