@@ -7,6 +7,10 @@ permalink: /blog/
 author_profile: true
 ---
 
+[Home](../index) | [Research](../research) | [Software](../software) | [Publications](../publications) | [Blog](../blog)
+
+<h1>Blog - Thinking Distributed</h1>
+
 <h2>Latest Posts</h2>
 <ul>
   {% for post in site.posts %}
@@ -16,3 +20,16 @@ author_profile: true
     </li>
   {% endfor %}
 </ul>
+
+<h2>Tags</h2>
+<ul>
+{% for tag in site.tags %}
+  <li>
+  {{ tag[0] }}
+    {% for post in tag[1] %}
+      <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;
+    {% endfor %}
+  </li>
+{% endfor %}
+</ul>
+
