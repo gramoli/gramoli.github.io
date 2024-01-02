@@ -11,7 +11,7 @@ victim to get an unfair access to resources before her victim. This unfair acces
 soon generalize to resources that are vital to a nation's economy (e.g., energy). Here we discuss the problem and list 
 recent cryptographic solutions to ensure a fair access to resources.
 
-![Dictatorship](/img/frontrunning.png){: width="500" }
+![The front-running attack](/img/frontrunning.png){: width="500" }
 
 As an example, consider the figure above where Alice, who needs to invest her pension, requests a stock order. A malicious user, 
 say Malory, who learns about Alice's order, can unfairly buy the same stocks ahead of Alice and resell them, 
@@ -25,7 +25,7 @@ it only deals with committed commands and disregards the ordering compared to ab
 
 We have thus provided an alternative solution called Lyra [2] which uses the network delays measured between processes so that processes can predict 
 the times when their commands are received by other processes. It reduces the latency of Pompe but just like Pompe can let front running attacks happen. 
-A more recent approach calls Aion [3] prevents front running attacks completely by using trusted execution environments. 
+A more recent approach calls Aion [3] prevents front running attacks (and sandwich attacks) completely by using trusted execution environments. 
 Ensuring this ordering of transactions promises to give users a fair access to shared resources, this has become a vital problem.
 
 [1] Y. Zhang, S. Setty, Q. Chen, L. Zhou, and L. Alvisi. [Byzantine ordered consensus without byzantine oligarchy](https://www.usenix.org/system/files/osdi20-zhang_yunhao_0.pdf). In OSDI, pages 633–649, 2020.
