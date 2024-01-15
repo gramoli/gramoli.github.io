@@ -1,3 +1,9 @@
+---
+layout: post
+author: Vincent
+tags: consensus, centralisation
+---
+
 Blockchains have inherently been centralised by design, which restricted their scalability. It is the consequences of research on the consensus problem from the 80s and the influential leader-based consensus protocols from the 90s/2000s. Only in 2021 was the problem redefined in a decentralised way for blockchains to scale to large networks.
 
 Since its inception, blockchain has been inherently leader-based. Despite the large body of work on decentralisation and distribution, an interesting centralisation aspects underlies the implementation of many blockchain systems. Whether it is about choosing a block or favouring messages, these blockchains always promote one lucky node that imposes its block to the rest of the network [1].
