@@ -6,8 +6,7 @@ tags: MEV, consensus, frontrunning, cryptography
 
 With the digital revolution, services are becoming decentralised. This trend is driven by users wanting to retain the custody of 
 their personal identifiable information or data, the growing use of Web3 over the Internet, and the desire for nations to become 
-self-sovereign in a globalised world. In this decentralised setting, tech-savvy participants regularly front-run  
-others to get an unfair access to resources before their victims. This unfair access impacts financial resources every day but could 
+self-sovereign in a globalised world. In this decentralised setting, tech-savvy participants regularly front-run others to get an unfair access to resources before their victims. This unfair access impacts financial resources every day but could 
 soon generalize to resources that are vital to a nation's economy (e.g., energy). Here we discuss the problem and list 
 recent cryptographic solutions to ensure a fair access to resources.
 
