@@ -14,6 +14,7 @@ The problem was exacerbated in the 1999 when Castro and Liskov introduces PBFT f
 are now variants of PBFT, all relying on a leader. This centralisation is why these consensus protocols do not scale to Wide Area Networks.
 
 
+![Leader-based vs. leaderless design](/img/leaderless.png){: width="500" }
 
 In 2021, we defined the Set Byzantine Consensus [3], allowing nodes to agree on multiple blocks at the next available index. This allowed us to leverage the resources of all the nodes instead of relying on a leader bottleneck: view it as introducing network collaboration where there was only network competition.
 The result led to growing performance with the size of the network as indicated by the graph above that is used for teaching the blockchain scalability MOOC [4].
