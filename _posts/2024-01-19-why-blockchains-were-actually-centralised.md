@@ -22,6 +22,6 @@ This is illustrated by the graph of the blockchain scalability MOOC [4] above, c
 
 [2] Miguel Castro and Barbara Liskov. [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf). OSDI 1999.
 
-[3] Tyler Crain, Chris Natoli and Vincent Gramoli. [https://gramoli.github.io/pubs/redbellyblockchain-oakland21.pdf](Red Belly: A Secure Fair and Scalable Open Blockchain). S&P 2021. 
+[3] Tyler Crain, Chris Natoli and Vincent Gramoli. [Red Belly: A Secure Fair and Scalable Open Blockchain](https://gramoli.github.io/pubs/redbellyblockchain-oakland21.pdf). S&P 2021. 
 
 [4] Blockchain Scalability and its Foundations in Distributed Systems. [https://www.coursera.org/learn/blockchain-scalability](https://www.coursera.org/learn/blockchain-scalability)
