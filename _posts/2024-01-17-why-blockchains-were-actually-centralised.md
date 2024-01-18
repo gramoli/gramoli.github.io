@@ -18,10 +18,10 @@ In 2021, we defined the Set Byzantine Consensus [3], allowing nodes to agree on 
 The result led to scalability in a WAN environment as performance would grow with the size of the network. 
 This is illustrated by the graph of the blockchain scalability MOOC [4] above, comparing the times to propagate information with and without a leader [4].
 
-[1] Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System.  https://bitcoin.org/bitcoin.pdf
+[1] Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 [2] Miguel Castro and Barbara Liskov. Practical Byzantine Fault Tolerance. OSDI 1999.
 
 [3] Tyler Crain, Chris Natoli and Vincent Gramoli. Red Belly: A Secure Fair and Scalable Open Blockchain. S&P 2021.
 
-[4] Blockchain Scalability and its Foundations in Distributed Systems. https://www.coursera.org/learn/blockchain-scalability
+[4] Blockchain Scalability and its Foundations in Distributed Systems. [https://www.coursera.org/learn/blockchain-scalability](https://www.coursera.org/learn/blockchain-scalability)
