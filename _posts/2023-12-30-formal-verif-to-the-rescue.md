@@ -4,8 +4,7 @@ author: Vincent
 tags: governance verification
 ---
 
-As a new flaw in the Solana consensus protocol will be presented in four days [1], it might be the right time to discuss the importance of formal methods.
-Classic blockchains had a hard time being adopted in production. When the largest bank of Australia asked me to do some consulting work, 
+As a new flaw in the Solana consensus protocol will be presented in four days [1], it might be the right time to discuss the importance of formal methods. *Update: 2 days later my colleagues from Bern also demonstrated that Avalanche consensus cannot provide a decent trade-off between security and performance [6].* Classic blockchains had a hard time being adopted in production. When the largest bank of Australia asked me to do some consulting work, 
 I had to inform them that the way they were using Ethereum was flawed as we managed to hack a copy of their setup [2]. 
 After we reported the vulnerability to both Geth and Parity security teams, they both acknowledged the problem but it took some time for 
 Parity to implement our counter measure. It is thus not surprising that the traditional finance industry has been slow at integrating blockchain 
@@ -45,4 +44,7 @@ blockchain in production.
 [4] P. Tholoniat and V. Gramoli. [Formal Verification of Blockchain Byzantine Fault Tolerance](https://arxiv.org/pdf/1909.07453.pdf). In Springer Optimization and Its Applications - Handbook on Blockchain. p.389-412.
 
 [5] N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder. [Holistic Verification of Blockchain Consensus](https://gramoli.github.io/pubs/DISC22-holistic-verification.pdf). 36th International Symposium on Distributed Computing (DISC), 2022.
+
+[6] I. Amores-Sesar1,2, C. Cachin, and P. Schneider [An Analysis of Avalanche Consensus](https://arxiv.org/pdf/2401.02811.pdf), 5 Jan. 2024.
+arXiv 2401.02811.
  
