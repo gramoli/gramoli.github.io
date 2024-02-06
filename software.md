@@ -25,6 +25,6 @@ A non-synchronized version of these data structures is proposed in each language
 multi-(/many-)core machines.
 
 [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent 
-algorithms](http://redbellyrw.cluster021.hosting.ovh.net/pubs/gramoli-synchrobench.pdf). 
+algorithms](https://gramoli.github.io/pubs/gramoli-synchrobench.pdf). 
 V Gramoli. Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2015.
 
