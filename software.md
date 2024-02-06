@@ -18,7 +18,7 @@ V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Con
 
 ## Synchrobench
 
-[Synchrobench](https://sites.google.com/site/synchrobench/) is a micro-benchmark suite used to evaluate synchronization techniques 
+[Synchrobench](https://github.com/gramoli/synchrobench) is a micro-benchmark suite used to evaluate synchronization techniques 
 on data structures. Synchrobench is written in C/C++ and Java and currently includes arrays, binary trees, hash tables, linked lists, 
 queues and skip lists that are synchronized with copy-on-write, locks, read-copy-update, compare-and-swap and transactional memory. 
 A non-synchronized version of these data structures is proposed in each language as a baseline to measure the performance gain on 
