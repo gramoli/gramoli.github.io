@@ -34,7 +34,7 @@ One may thus think that the problem is unsolvable for blockchains. As blockchain
 where all message transmissions cannot be capped by a known delay, it appears impossible to design a cross-chain protocol
 that offers some transfer success. 
 
-Interestingly, we also show that there is a way to relax the problem to guarantee success of cross-chain transfers. 
+Interestingly, we also show that there is a way to relax the problem definition to guarantee success of cross-chain transfers. 
 The idea stems from relaxing the liveness guarantee to be solvable with partial synchrony.
 In particular, this solution ensures that honest participants of this protocol cannot be cheated.
 But perhaps more interestingly, our problem definition also guarantees that it is not possible for all 
