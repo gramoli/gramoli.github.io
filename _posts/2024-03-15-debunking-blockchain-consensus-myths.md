@@ -9,8 +9,8 @@ The second and third myths is that consensus is the bottleneck of blockchain sys
 Other myths involve the folklore believes that blockchains are secure because they make use of hashes and signatures or integrate a Byzantine fault tolerant consensus algorithm. A first problem is that blockchain clients typically believe the information they receive from a single source, making them vulnerable to a single Byzantine failure. A second problem is that replacing the orderer module of Hyperledger Fabric by a Byzantine fault tolerant module was insufficient as the whole blockchain architecture needed to be redesigned to become Byzantine fault tolerant.
 
 
-[1] D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli. Ten Myths About Blockchain Consensus. Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
+[1] D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli. [Ten Myths About Blockchain Consensus](https://gramoli.github.io/pubs/Ten-myths-preprint.pdf). Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
 
-[2] Pease, M.C., Shostak, R.E., Lamport, L.: Reaching agreement in the presence of faults. J. ACM 27(2), 228–234 (1980).
+[2] M.C. Pease, R.E. Shostak, L. Lamport. [Reaching agreement in the presence of faults](https://dl.acm.org/doi/10.1145/322186.322188). J. ACM 27(2), 228–234 (1980).
 
-[3] P. Civit, M. A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira. Byzantine Consensus is Theta(n^2): The Dolev-Reischuk Bound is Tight even in Partial Synchrony! 36th International Symposium on Distributed Computing (DISC), 2022
+[3] P. Civit, M. A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira. [Byzantine Consensus is Theta(n^2): The Dolev-Reischuk Bound is Tight even in Partial Synchrony!](https://gramoli.github.io/pubs/DISC22-quadratic-consensus.pdf) 36th International Symposium on Distributed Computing (DISC), 2022
