@@ -2,6 +2,9 @@
 
 ## Selected Publications
 
+- Ten Myths About Blockchain Consensus. D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli.
+  Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
+
 - [On the Relevance of Blockchain Evaluations on
 Bare Metal](../pubs/SDLT_2023.pdf).
 A. Lebedev, V. Gramoli.
