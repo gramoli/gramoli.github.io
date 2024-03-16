@@ -8,7 +8,7 @@ Blockchain technologies rely on a large body of complex research topics like the
 
 A consensus protocol is a key element of the blockchain system as it helps a distributed set of machines agree on a unique block at each given index of a chain. In contrast with the problem of consensus that has been known by the distributed computing community for the past four decades [2], a significant part of these proposals is often unclear. Most of these new consensus protocols are described in white papers, wikis and online documentations, rather than in more traditional academic publications and it is unclear whether they satisfy the application requirements.
 
-The first myth is that the various Po* mechanisms, that encompass Proof-of-Work and Proof-of-Stake solve consensus. The typically limit the nodes that can create valid blocks but unfortunately they do not guarantee agreement about a unique block to append to the next available index of the chain. 
+The first myth is that the various Po* mechanisms, that encompass Proof-of-Work and Proof-of-Stake solve consensus. They typically limit the nodes that can create valid blocks but unfortunately they do not guarantee agreement about a unique block to append to the next available index of the chain. 
 
 The second and third myths is that consensus is the bottleneck of blockchain systems in LAN and WAN. It is true that consensus is needed by blockchain and that its consensus often involves at least a quadratic communication complexity that rapidly consumes the bandwidth as the system enlarges [3], however, consensus is not always the bottleneck. Simple evaluations of the performance of Hyperledger Fabric and Corda running BFT-SMarRt indicates that they  are significantly slower than BFT-SMarRt.
 
