@@ -2,6 +2,10 @@
 
 ## Selected Publications
 
+- ZLB: A Blockchain to Tolerate Colluding Manorities. A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN).
+
+- AOAB: Optimal and Fair Ordering of Financial Transactions. V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN).
+  
 - [Ten Myths About Blockchain Consensus](../pubs/Ten-myths-preprint.pdf). D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli.
   Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
 
