@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-- [ZLB: A Blockchain to Tolerate Colluding Majorities](../pubs/DNS24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
+- [ZLB: A Blockchain to Tolerate Colluding Majorities](../pubs/DSN24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
 
 - AOAB: Optimal and Fair Ordering of Financial Transactions. V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
   
