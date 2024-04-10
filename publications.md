@@ -4,7 +4,7 @@
 
 - [ZLB: A Blockchain to Tolerate Colluding Majorities](../pubs/DSN24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
 
-- AOAB: Optimal and Fair Ordering of Financial Transactions. V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
+- [AOAB: Optimal and Fair Ordering of Financial Transactions](../pubs/DSN24_AOAB_preprint.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
   
 - [Ten Myths About Blockchain Consensus](../pubs/Ten-myths-preprint.pdf). D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli.
   Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
