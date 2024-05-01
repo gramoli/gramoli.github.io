@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vincent
-tags: MEV, consensus, frontrunning, cryptography
+tags: MEV consensus frontrunning cryptography
 ---
 
 With the digital revolution, services are becoming decentralised. This trend is driven by users wanting to retain the custody of 
