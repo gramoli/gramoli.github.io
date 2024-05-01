@@ -20,6 +20,8 @@ So why is this blockchain called ZLB? It actually allowed us to implement a zero
 
 Finally, we also evaluated the performance of our ZLB blockchain that achieved close to 17K TPS in a geo-distributed network as indicated in the figure above. As a result, ZLB outpeforms the raw HotStuff [5] consensus protocol by 5.6 times, which indicates that ZLB would also outperform any HotStuff-based blockchain that would have to validate and execute transactions in addition to running HotStuff. Finally, we noticed something remarkable when running coalition attacks against our network. As the system enlarges, so does the latency of messages between blockchain nodes, which reduces the effects of lying because the lies get detected before they can even cause forks. As the performance of ZLB increases as the system size increases, we noticed that it performs similarly to the Redbelly blockchain [6] at large scale.
 
+*A copy of this blog post is available on [Medium](https://medium.com/@redbellyblockchain/blockchain-can-finally-tolerate-colluding-majority-7339ad90f103)*.
+
 [1] A. Ranchal Pedrosa and V. Gramoli. [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). IEEE/IFIP DSN, 2024
 
 [2] S. Gilbert and N. Lynch. [Perspectives on the CAP theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf). Computer, 45(2):30–36, 2012.
