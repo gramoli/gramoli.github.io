@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vincent
-tags: cross-chain, interoperability, synchrony
+tags: cross-chain interoperability synchrony
 ---
 
 For blockchain to become securely interoperable, one must first solve the cross-chain payment problem.
