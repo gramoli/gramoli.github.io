@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vincent
-tags: consensus, centralisation
+tags: consensus centralisation
 ---
 
 Most blockchains have an inherently centralised design, which restricts their scalability. It is the consequence of research on the consensus problem from the 80s and the influential leader-based consensus protocols from the 2000s. We had to wait until until 2021 for the problem to be redefined in a decentralised way for blockchains to scale to large networks.
