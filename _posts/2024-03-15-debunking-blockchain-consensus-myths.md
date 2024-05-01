@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vincent
-tags: consensus, DBFT
+tags: consensus DBFT
 ---
 
 Blockchain technologies rely on a large body of complex research topics like the Byzantine consensus problem. Although such a problem was defined four decades ago, its subtle ramifications are largely misunderstood by many blockchain developers, let alone application programmers who build upon these blockchains. These misconceptions are dramatic as they prevent these applications from working efficiently and they make them vulnerable to attacks. In a recent chapter [1], we debunk the 10 major myths about blockchain consensus by evaluating three distributed ledgers, Hyperledger Fabric, Redbelly Blockchain and R3 Corda, as well as three important consensus algorithms, BFT-SMaRt, Democratic BFT and HotStuff. Below we discuss the five first myths.
