@@ -61,7 +61,7 @@ def transaction_bytes(transaction: dict) -> bytes:
 	return json.dumps(transaction, sort_keys=True).encode()
 
 def make_signature(private_key: ed25519.Ed25519PrivateKey, sender: str, message: str, nonce: int) -> str:
-	transaction = {k: v for k, v in {'sender': sender, 'message': message}.items() if v is not None}
+	transaction = {k: v for k, v in {'sender': sender, 'message': message, 'nonce': nonce}.items() if v is not None}
 	return private_key.sign(transaction_bytes(transaction)).hex()
 
 def generate_transaction(private_key=None, message=None, nonce=None, sender=None, signature=None,
