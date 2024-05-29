@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-- [Blockchain Double Spending With Low Mining Power and Network Delays](../pubs/ACMDLT24.pdf). P. Ekparinya, C. Natoli, G. Jourjon, V. Gramoli. ACM Distributed Ledger Technologies (DLT), 2024. 
+- [Blockchain Double Spending With Low Mining Power and Network Delays](../pubs/ACMDLT24.pdf). C. Natoli, P. Ekparinya, G. Jourjon, V. Gramoli. ACM Distributed Ledger Technologies (DLT), 2024. 
 
 - [ZLB: A Blockchain to Tolerate Colluding Majorities](../pubs/DSN24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024, **Best Paper Award**.
 
