@@ -4,7 +4,7 @@ author: Vincent
 tags: DBFT cryptography consensus
 ---
 
-We found a blockchain protocol, called ZLB [1], to cope with a coalition of any size. Before that, adversaries controlling the majority of the resources could break any blockchain network. This has been dramatic, as we are aware of many millions of dollars that got lost or stolen due to this problem. The key to bypass this limitation relies on solving the accountable consensus problem: either reaching consensus because the coalition does not lie sufficiently to other nodes, or producing undeniable proofs of fraud to ban liars from executing further consensus instances. The amount of applications of ZLB is vast and its performance is close to the best performing blockchains.
+We found a blockchain protocol, called ZLB [1], to cope with a coalition of any size. Before that, adversaries controlling the majority of the resources could break any blockchain network. This has been dramatic, as we are aware of many millions of dollars that got lost or stolen due to this problem. The key to bypass this limitation relies on solving the accountable consensus problem: either reaching consensus because the coalition does not lie sufficiently to other nodes, or producing undeniable proofs of fraud to ban liars from executing further consensus instances. The amount of applications of ZLB is vast and its performance is close to the best performing blockchains. *Update: this scientific publication [1] has just received a Best Paper Award from the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks.*
 
 Until now, blockchains were doomed to fail if a majority of the participants were misbehaving. The reason is intuitive: if an adversary controls more resources than the rest of the system, then it can presumably rewrite the history of the blockchain. The 51% attacks illustrates this problem in Proof-of-Work blockchains where an adversary owns more than half of the mining power of the network. But this problem also applies to Proof-of-Stake blockchains where the adversary controlling more stake than the rest of the network can outvote anyone. This is a major problem considering the natural tendency for the distribution of resources to be skewed as we explained in a previous block post.
 
@@ -22,7 +22,7 @@ Finally, we also evaluated the performance of our ZLB blockchain that achieved c
 
 *A copy of this blog post is available on [Medium](https://medium.com/@redbellyblockchain/blockchain-can-finally-tolerate-colluding-majority-7339ad90f103)*.
 
-[1] A. Ranchal Pedrosa and V. Gramoli. [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). IEEE/IFIP DSN, 2024
+[1] A. Ranchal Pedrosa and V. Gramoli. [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). IEEE/IFIP DSN, 2024, **Best Paper Award**.
 
 [2] S. Gilbert and N. Lynch. [Perspectives on the CAP theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf). Computer, 45(2):30–36, 2012.
 
