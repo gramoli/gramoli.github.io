@@ -44,7 +44,9 @@ who do not want to go to jail, should probably start by using Redbelly Network, 
 Solidity smart contracts, to tokenise and trade their assets.
 
 [1] [https://www.statista.com/statistics/1202503/global-cryptocurrency-user-base/](https://www.statista.com/statistics/1202503/global-cryptocurrency-user-base/)
+
 [2] [https://triple-a.io/cryptocurrency-ownership-data/](https://triple-a.io/cryptocurrency-ownership-data/)
+
 [3] KPMG - SFA. The Asset Tokenization C-Suite Playbook. Feb 2024.
 
 
