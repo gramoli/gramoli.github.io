@@ -38,7 +38,7 @@ registration with an identity provider. Within few days, hundreds of users have 
 regulation and benefit from a fast blockchain. 
 
 Having a solution to tokenise assets that complies with regulation is also reassuring:
-Real World Assets (RWA) tokenisation is booming with an expected growth of 
+Real World Assets (RWA) tokenisation is booming with an expected growth of up to 
 80x between 2023 and 2030 as forecast by KPMG [3]. Between different technologies, users 
 who do not want to go to jail, should probably start by using Redbelly Network, which supports
 Solidity smart contracts, to tokenise and trade their assets.
