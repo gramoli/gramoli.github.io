@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-- [Resilience to Chain-Quality Attacks in Fair Separability](../pubs/ESORICS24-FS.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 
+- [Resilience to Chain-Quality Attacks in Fair Separability](../pubs/ESORICS24-FairSeparability.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 
 9th European Symposium on Research in Computer Security (ESORICS), 2024.
 
 - [Blockchain Double Spending With Low Mining Power and Network Delays](../pubs/ACMDLT24.pdf). C. Natoli, P. Ekparinya, G. Jourjon, V. Gramoli. ACM Distributed Ledger Technologies (DLT), 2024. 
