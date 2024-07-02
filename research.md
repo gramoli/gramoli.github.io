@@ -10,6 +10,9 @@ comments: true
 
 ### Recent Research Events
 
+- [Science and Engineering of Consensus](https://tselab.stanford.edu/workshop-sbc24/) - Invited Speaker
+- [ApPLIED@PODC 2024](https://www.cse.chalmers.se/~elad/ApPLIED2024/) - PC Co-chair
+- [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-sydney-2024) - Keynote Speaker
 - [Conference on Principles of Distributed Systems 2023](https://xdefago.github.io/opodis23/) - Keynote Speaker
 - [Symposium on Distributed Ledger Technology 2023](https://symposium-dlt.org/) - Keynote Speaker
 - [French-Japanese workshop on blockchain technologies and applications to digital trust 2023](https://dal.sfc.keio.ac.jp/en/events/2023_10_23-fr-jp-ws/) - Invited Speaker
