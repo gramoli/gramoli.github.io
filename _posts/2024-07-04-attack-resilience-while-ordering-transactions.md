@@ -25,7 +25,7 @@ ordering linerizability would only apply ordering constraints to committed trans
 This means that even transactions that were assigned a correct order by the correct participants 
 may never be committed. 
 
-Previous alternatives [8] implement a different property called *fair separability* and, furthermore, 
+Previous alternatives implement a different property called *fair separability* and, furthermore, 
 it also achieves resilience to downgrade attacks. However, to do so, processes must rebroadcast 
 each transaction they observe. As a result, these solutions output every transaction observed 
 by any correct process, even if it was sent by a Byzantine process to a single correct process.
