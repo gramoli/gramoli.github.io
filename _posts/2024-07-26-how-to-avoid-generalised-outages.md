@@ -38,14 +38,14 @@ distributed computing or distributed systems.
 
 With the advent of Web3, services are naturally becoming decentralised. Besides payments, 
 distributed ledgers can now execute arbitrarily complex programs, offering various types 
-of services. In a recent research publication [2], we even used a decentralised 
+of services. In a recent research publication [3], we even used a decentralised 
 transportation system to evaluate how blockchains could run a mobility service. While 
 most modern blockchains suffer from congestion [3], a more recent blockchain, called 
 Redbelly Blockchain could run this and other real world applications efficiently in a 
 highly decentralised fashion [4], with machines running on different continents. This 
 line of work, on tackling dependability through decentralisation, is getting traction 
 in the scientific community. Recently a ‘Best Paper’ was awarded by the main scientific 
-conference of the ‘Dependable community for our publication on the ‘Zero Loss 
+conference of the Dependable community for our publication on the ‘Zero Loss 
 Blockchain’ [5] that expands on this scalable blockchain system.
 
 As this blockchain software is moving into production, now is probably the time to deploy 
