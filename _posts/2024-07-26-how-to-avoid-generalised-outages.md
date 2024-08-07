@@ -4,8 +4,6 @@ author: Vincent
 tags: centralisation governance
 ---
 
-[A copy of this post is available on Medium.](https://medium.com/@redbellyblockchain/b2e8f0df9245?source=friends_link&sk=645b087ef135d51a4867d9382ea18120)
-
 The dependence of critical industry sectors on any specific technology is dangerous. It 
 translates into assuming that health services, distribution of goods, transportation 
 can serve us as long as a single product, like Microsoft Windows, does not experience 
@@ -50,6 +48,8 @@ Blockchain’ [5] that expands on this scalable blockchain system.
 
 As this blockchain software is moving into production, now is probably the time to deploy 
 more critical infrastructures on this mature decentralised technology.
+
+[A copy of this post is available on Medium.](https://medium.com/@redbellyblockchain/b2e8f0df9245?source=friends_link&sk=645b087ef135d51a4867d9382ea18120)
 
 [1] Vincent Gramoli, Guillaume Jourjon, Olivier Mehani. Disaster-Tolerant Storage with 
 SDN. Proceedings of the International Conference on Networked Systems (NetSys) 2015 - p293-307.
