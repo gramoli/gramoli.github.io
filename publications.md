@@ -2,6 +2,9 @@
 
 ## Selected Publications
 
+- [Byzantine consensus is Θ(n^2): the Dolev-Reischuk bound is tight even in partial synchrony!](https://doi.org/10.1007/s00446-023-00458-w) P. Muhammad, A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira:
+Distributed Computing 37(2): 89-119, 2024.
+
 - [Resilience to Chain-Quality Attacks in Fair Separability](../pubs/ESORICS24-FairSeparability.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 
 9th European Symposium on Research in Computer Security (ESORICS), 2024.
 
