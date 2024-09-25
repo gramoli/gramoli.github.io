@@ -39,12 +39,12 @@ failures or transient link failures. Some other blockchains show different level
 for Redbelly and slower stabilisation in Algorand and Aptos. Finally, Byzantine fault tolerance, evaluated with redundant transaction requests does 
 not seem to impact the blockchains protocols as much as other types of failures.
 
-[1] STABL: Blockchain Fault Tolerance. Vincent Gramoli and Rachid Guerraoui and Andrei Lebedev and Gauthier Voron. 
+[1] [STABL: Blockchain Fault Tolerance](https://arxiv.org/pdf/2409.13142). Vincent Gramoli and Rachid Guerraoui and Andrei Lebedev and Gauthier Voron. 
 Technical report 2409.13142, arXiv, 2024.
 
-[2] The Byzantine Generals Problem. Leslie Lamport, Robert Shostak, and Marshall Pease.
+[2] [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf). Leslie Lamport, Robert Shostak, and Marshall Pease.
 ACM TOPLAS, 1982.
 
-[3] Consensus in the Presence of Partial Synchrony. Cynthia Dwork, Nancy Lynch, Larry Stockmeyer.
+[3] [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf?file=jacm88.pdf). Cynthia Dwork, Nancy Lynch, Larry Stockmeyer.
 J. ACM, 1988.
 
