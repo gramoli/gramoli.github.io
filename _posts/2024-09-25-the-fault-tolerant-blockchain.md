@@ -34,7 +34,7 @@ of a single node and is thus resilient to a small portion of permanent failures.
 
 ![Blockchain Sensitivity to Failures](/img/radar.png){: width="500" }
 
-Overall and as depicted in the above figure, the results show that some blockchains, like Avalanche and Solana, cannot recover from transient node 
+Overall and as the above figure depicts the sensitivity to failures of blockchains, the results show that Avalanche and Solana cannot recover from transient node 
 failures or transient link failures. Some other blockchains show different levels of resilience to permanent benign failures, with fast stabilitsation 
 for Redbelly and slower stabilisation in Algorand and Aptos. Finally, Byzantine fault tolerance, evaluated with redundant transaction requests does 
 not seem to impact the blockchains protocols as much as other types of failures.
