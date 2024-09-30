@@ -2,6 +2,10 @@
 
 ## Selected Publications
 
+
+- [Deconstructing the Smart Redbelly Blockchain](../pubs/2024-SRBB-ACM-TC.pdf) D. Tennakoon, V. Gramoli.
+ACM Transactions on Computers, 2024.
+
 - [Byzantine consensus is Θ(n^2): the Dolev-Reischuk bound is tight even in partial synchrony!](https://doi.org/10.1007/s00446-023-00458-w) P. Muhammad, A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira:
 Distributed Computing 37(2): 89-119, 2024.
 
