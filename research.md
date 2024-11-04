@@ -13,7 +13,7 @@ comments: true
 - [Financial Cryptography 2025 - Fairness Workshop](https://fc25.ifca.ai/cfp.html) - Invited Speaker
 - [Middleware 2024](https://middleware-conf.github.io/2024/), Hong Kong - Keynote Speaker
 - [Scholars in Blockchain International Symposium](https://britishblockchainassociation.org/sibis2024/) - Invited Speaker
-- [Sydney Knowledge Hub](https://www.sydney.edu.au/engage/industry-business-partnerships/sydney-knowledge-hub.html) - Research Showcase Panelit 
+- [Sydney Knowledge Hub](https://www.sydney.edu.au/engage/industry-business-partnerships/sydney-knowledge-hub.html) - Research Showcase Panelist 
 - [Science and Engineering of Consensus](https://tselab.stanford.edu/workshop-sbc24/) - Invited Speaker
 - [ApPLIED@PODC 2024](https://www.cse.chalmers.se/~elad/ApPLIED2024/) - PC Co-chair
 - [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-sydney-2024) - Keynote Speaker
