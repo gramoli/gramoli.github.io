@@ -18,16 +18,15 @@ In an effort to optimise this verification process we identified the redundant v
 Transactions are validated while being propagated individually throughout the network and while being propagated within blocks throughout the network. 
 This redundant validation was unnecessary, and the formal treatment of Redbelly led to identify the necessary and sufficient conditions under which the transaction validations were needed. 
 
-The paper features other systems optimisations around Inputs/Outputs that helped us bypass out-of-memory errors or how decoupling could help boosting performance even further.
-It also presents some of the trials that we conducted by decoupling the SEVM or the Scalable version of the Etherum Virtual Machine execution from the consensus protocol execution on distinct machines.
+The paper features other systems optimisations around Inputs/Outputs that helped us bypass out-of-memory errors or understand how decoupling could help boosting performance even further.
+More specifically, it presents some of the trials that we conducted by decoupling the SEVM or the Scalable version of the Etherum Virtual Machine execution from the consensus protocol execution on distinct machines.
 
 But one of the most striking results is probably the performance comparison of Algorand, Avalanche, Diem, Ethereum, Quorum, Solana, Smart Redbelly (SRBB) and the naive implementation of an EVM coupled with the model checked blockchain consensus protocol, DBFT, on realistic applications.
 These extensive experiments building upon the Diablo benchmark suite [3] demonstrated empirically that not only Redbelly is the only one of these tested blockchains that can commit all transactions of an Exchange and a Mobility decentralised applications, but it does so the fastest. 
 These results build upon a long series of research work, on the DBFT consensus protocol, the collaborative blockchain [2], formal verification, and integration of the language virtual machine to support smart contract execution [4].
 
 To conclude, after almost a decade of work on trying to make blockchains more secure and efficient, we have finally demonstrated that collaboration was the way to proceed.
-Not only did this inherently solve the scalability problem that plagued blockchains but it has just been recognised as a novel patented idea and allowed to support the 
-demand of realistic decentralised applications. Now that scalability has been solved at layer-1, the future of blockchains is bright.
+Not only did this inherently solve the scalability problem that plagued blockchains but it has just been recognised as a novel patented idea to support the demand of realistic decentralised applications. Now that scalability has been solved at layer-1, the future of blockchains is bright.
 
 [1] D. Tennakoon, V. Gramoli. [Deconstructing the Smart Redbelly Blockchain](https://gramoli.github.io/pubs/2024-SRBB-TC.pdf). 
 IEEE Transactions on Computers, DOI:10.1109/TC.2024.3475573, 2024.
