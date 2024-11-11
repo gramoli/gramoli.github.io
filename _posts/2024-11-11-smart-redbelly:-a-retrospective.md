@@ -10,7 +10,7 @@ The original idea of Redbelly Blockchain was to make blockchain secure and effic
 We achieve efficiency by introducing collaboration: Instead of letting participants compete to insert the next block, our collaborative approach leveraged their resources to scale.
 Although seemingly simple, this idea took lawyers 6 years to recognise its novelty and we are happy that the US Patent and Trademark Office has finally approved our corresponding patent. 
 
-![The collabortive blockchain patent has just been approved in the US](/img/patent.png){: width="500" }
+![The collaborative blockchain patent has just been approved in the US](/img/patent.png){: width="500" }
 
 This collaborative feature is how the first version of Redbelly turned blockchain into a scalable software [2]. But there was another novelty that had impact: optimising validations. 
 Back in 2017, we noted in our early experiments that the CPU consumption involved by validating, in particular, the cryptographic signature of transactions was significant. 
