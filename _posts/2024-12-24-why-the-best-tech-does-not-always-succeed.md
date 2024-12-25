@@ -4,7 +4,7 @@ author: Vincent
 tags: verification consensus RWA
 ---
 
-The best technology does not necessarily lead to success! Indeed, some great technologies did not succeed.  Sometimes this was due to a narrow ecosystem compatibility, sometimes it was due to user inconvenience and sometimes it was due to lower security. But at times great tech can help turn a company into a unicorn, a privately-owned company valued at over US$1 billion. I can now say that unicorns exist as I saw Redbelly Network I founded becoming one, but to found a unicorn, one has first to avoid these pitfalls.  
+The best technology does not necessarily lead to success! Indeed, some great technologies did not succeed.  Sometimes this was due to a narrow ecosystem compatibility, sometimes it was due to user inconvenience and sometimes it was due to lower security. But at times superior tech can also help turn a company into a unicorn, a privately-owned company valued at over US$1 billion. I can now say that unicorns exist as I saw Redbelly Network I founded becoming one, but to found a unicorn, one has first to avoid these pitfalls.  
 
 To understand the first of these pitfalls, let us consider one of the most cited failed tech scenarios from Betamax developed by Sony. In 1976, Betamax was offering superior quality to the Video Home System (VHS). Yet, it did not have the broad support from video rental stores which in part led to the success of VHS.
 
