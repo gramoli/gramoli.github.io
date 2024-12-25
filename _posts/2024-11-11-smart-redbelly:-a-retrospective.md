@@ -4,7 +4,7 @@ author: Vincent
 tags: verification cryptography
 ---
 
-As the Smart Redbelly Blockchain has just been accepted for publcation in the flagship journal of Computer Science, IEEE TC [1], 
+As the Smart Redbelly Blockchain has just been accepted for publication in the flagship journal of Computer Science, IEEE TC [1], 
 now is the right time to look back at what makes Redbelly Blockchain unique.
 The original idea of Redbelly Blockchain was to make blockchain secure and efficient.
 We achieve efficiency by introducing collaboration: Instead of letting participants compete to insert the next block, our collaborative approach leveraged their resources to scale.
