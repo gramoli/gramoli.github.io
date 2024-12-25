@@ -4,7 +4,7 @@ author: Vincent
 tags: verification consensus RWA
 ---
 
-The best technology does not necessarily lead to success! But sometimes it can help turn a company into a unicorn, a privately-owned company valued at over US$1 billion. Indeed, some great technologies did not succeed.  Sometimes this was due to a narrow ecosystem compatibility, sometimes it was due to user inconvenience and sometimes it was due to the lack of partnerships. But I can now say that unicorns exist as I founded one, but to found a unicorn, one has first to avoid these pitfalls.  
+The best technology does not necessarily lead to success! But sometimes it can help turn a company into a unicorn, a privately-owned company valued at over US$1 billion. Indeed, some great technologies did not succeed.  Sometimes this was due to a narrow ecosystem compatibility, sometimes it was due to user inconvenience and sometimes it was due to lower security. But I can now say that unicorns exist as I founded one, but to found a unicorn, one has first to avoid these pitfalls.  
 
 To understand the first of these pitfalls, let us consider one of the most cited failed tech scenarios from Betamax developed by Sony. In 1976, Betamax was offering superior quality to the Video Home System (VHS). Yet, it did not have the broad support from video rental stores which in part led to the success of VHS.
 
@@ -15,7 +15,7 @@ To understand the second pitfall, consider the glasses that Google launched in 2
 Similarly, one of the biggest impediments of blockchain technology has been the fear in the absence of user protection. As everyone is pseudonymous or anonymous, there is no accountability and hackers easily steal assets from random users without the having to ever pay back. These risks have hampered mass adoption. At Redbelly, we bypass this problem by making blockchains comply with regulations: every user must have a real world identity. This ensures, for example, that no users are trading with AI bots, Redbelly could even inform the payer whether there is a real person associated to the recipient address before actioning a payment. By mitigating this risk, Redbelly democratizes the use of blockchain technology.
 
 To understand the last pitfall, consider HD-DVD from Toshiba in 2006 that was better for cost and production than Sony's Blu-ray and HD-DVD players were about 3 times cheaper than Blu-ray players. Blu-ray had however a superior storage capacity and a more advanced protection against piracy. 
-In 2007, consumers were inundated with marketing about both technologies. But progressively, retailers started offering exclusively Blu-ray disks, this was the case of Target, Blockbuster, Netflix and Wal-Mart. Blu-ray became the defactor standard, hence leading to the failure of HD-DVD when Toshiba and Microsoft stopped manufacturing HD-DVD players.
+In 2007, consumers were inundated with marketing about both technologies. But progressively, retailers started offering exclusively Blu-ray disks, this was the case of Target, Blockbuster, Netflix and Wal-Mart. Blu-ray became the defacto standard, hence leading to the failure of HD-DVD when Toshiba and Microsoft stopped manufacturing HD-DVD players.
 
 ![Unprecedented performance of the Redbelly technology](/img/throughput.png){: width="500" }
 
