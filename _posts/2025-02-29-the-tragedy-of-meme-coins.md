@@ -50,7 +50,7 @@ Solana also experienced a liquidity outflows dropping from $12.1B on 20th Januar
 The problem is that Solana, just like most blockchains, do not identify the traders and these tokens are 
 open for investment to anyone, be it a child, an AI bot or a sanctioned country governor. 
 By acquiring a substancial part of the token supply, any wealthy organisation could threaten of dropping the token price by dumping 
-its supply on an exchange. Dropping the TRUMP token price by a coupld of billions dollars would translate the US president company, 
+its supply on an exchange. Dropping the TRUMP token price by a couple of billions dollars would translate the US president company, 
 CIC Digital LLC, to lose big time. It would therefore be in the interest of the US President to respond to this threat by 
 entering negociations with any such wealthy organisation.
 
