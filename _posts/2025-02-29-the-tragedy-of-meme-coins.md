@@ -31,7 +31,7 @@ the Solana blockchain platform [[3]](https://www.trmlabs.com/post/tracing-trump)
 On 18th January, the MELANIA token was launched. This token was marketed by MKT World LLC, a Florida-registered company owned by 
 Melania Trump, who is now the first lady of the United States. At launch time, she posted on X "The Official Melania Meme is live!".
 The total value raised to $1.6B rapidly after the launch.
-Few days later, the price of both TRUMP and MELANIA tokens drop by 70% and 43%, respectively. 
+Few days later, the price of both TRUMP and MELANIA tokens dropped by 70% and 43%, respectively. 
 
 On 14th February at 21:38 UTC, the LIBRA token was launched. 
 At 22:01 UTC, the Argentinan President Javier Milei described it on X as a way to incentivize 
