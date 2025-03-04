@@ -47,6 +47,8 @@ As the platform facilitating this token speculation, Solana lost 41.5% of TVL wi
 On February 14th, when the LIBRA situation unfolded, SOL started dropping and was down by 16% five days later. 
 Solana also experienced a liquidity outflows dropping from $12.1B on 20th January to $7B on 25th February [[5]](https://defillama.com/chain/Solana).
 
+![Tragedy](/img/tragedy.png){: width="500" }[https://tinyurl.com/5n79676m](.)
+
 The problem is that Solana, just like most blockchains, do not identify the traders and these tokens are 
 open for investment to anyone, be it a child, an AI bot or a sanctioned country governor. 
 By acquiring a substancial part of the token supply, any wealthy organisation could threaten of dropping the token price by dumping 
