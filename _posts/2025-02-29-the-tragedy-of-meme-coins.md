@@ -24,7 +24,7 @@ According to the media, a Trump company, CIC Digital LLC, owns 80% of the token�
 
 The TRUMP token is now referred to as a meme coin. The reason is that the address that created the coin, 
 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN, also holds memecoins like “Mark Cuban Meme”. 
-These coins are identified by addresses ending with "pump", which seeminlgy indicates that there were produced 
+These coins are identified by addresses ending with "pump", which seeminlgy indicates that they were produced 
 with the pump.fun launchpad, which is known to faciliate the launch of memecoins on 
 the Solana blockchain platform [[3]](https://www.trmlabs.com/post/tracing-trump). 
 
@@ -35,7 +35,7 @@ Few days later, the price of both TRUMP and MELANIA tokens dropped by 70% and 43
 
 On 14th February at 21:38 UTC, the LIBRA token was launched. 
 At 22:01 UTC, the Argentinan President Javier Milei described it on X as a way to incentivize 
-the growth of the Argentine economy by funding small businesses and Argentine ventures.
+the growth of the Argentina economy by funding small businesses and Argentina ventures.
 Within the next hour, the token’s price surged to a peak of $4.55 before falling right after.
 
 Among the 15,431 wallets that experienced a gain or a loss of at least $1000 in the $LIBRA token, 86% lost a cumulative amount of 
@@ -56,11 +56,9 @@ its supply on an exchange. Dropping the TRUMP token price by a couple of billion
 CIC Digital LLC, to lose big time. It would therefore be in the interest of the US President to respond to this threat by 
 entering negociations with any such wealthy organisation.
 
-Redbelly Network [[6]](https://redbelly.network/) is inherently designed to prevent anybody from exercising this type of destabilising influence.  
-It relies on a markpetplace of identity providers to guarantee that a human adult or an instituion is accountable for any wallet 
+Redbelly Network [[6]](https://redbelly.network/) is inherently designed to prevent anybody from exercising this type of destabilising influence. It relies on a markpetplace of identity providers to guarantee that a human adult or an instituion is accountable for any wallet 
 used in the network. Not only does this accountability incentivize users to behave ethically, but it allows an application 
-developer to program the type of organisation that can invest in a token. 
-This is instrumental in prohibiting, for example, a sanctioned country from investing in the current President memecoin.
+developer to program the type of organisation that can invest in a token. This is instrumental in prohibiting, for example, a sanctioned country from investing in the current President memecoin.
 It is now time to switch to a safer environment while trading assets, otherwise what once were funny memecoins will certainly become a tragedy.
 
 [1] RedBelly Network, The FUTURE of Fintech TODAY. [https://youtu.be/cXe_FwZj1Qk?feature=shared](https://youtu.be/cXe_FwZj1Qk?feature=shared)
