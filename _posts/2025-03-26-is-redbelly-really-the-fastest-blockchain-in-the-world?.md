@@ -62,9 +62,9 @@ Note that these numbers are documented in a scientific article of the flagship s
 
 Beyond these scientific performance results:
 
-Redbelly was the only evaluated blockchain to successfully commit all transactions from real-world workloads (e.g., NASDAQ and Uber data) while running decentralized applications [4].
-A third-party monitoring firm confirmed that Redbelly achieved the highest maximum throughput among all evaluated blockchains in production: [73,158 TPS], with a minimum finality time of 0 seconds.
-ChainSpect has verified Redbelly holds the fastest theoretical throughput: [666,970 TPS](https://gramoli.github.io/pubs/redbellyblockchain-oakland21.pdf)—#1 across all evaluated blockchains.
+Redbelly was the only evaluated blockchain to successfully commit all transactions from real-world workloads (e.g., NASDAQ and Uber data) while running decentralized applications [[4]](https://gramoli.github.io/pubs/2024-SRBB-TC.pdf).
+A third-party monitoring firm confirmed that Redbelly achieved the highest maximum throughput among all evaluated blockchains in production: [73,158 TPS](https://chainspect.app/dashboard?order=desc&sort=maxTps), with a minimum finality time of 0 seconds.
+ChainSpect has verified Redbelly holds the fastest theoretical throughput: [666,970 TPS](https://chainspect.app/dashboard?order=desc&sort=theorTps)—#1 across all evaluated blockchains.
 
 ### Conclusion
 
