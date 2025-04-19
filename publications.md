@@ -2,6 +2,8 @@
 
 ## Selected Publications
 
+- [STABL: The Sensitivity of Blockchains to Failures]() V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
+26th ACM/IFIP International Middleware Conference (Middleware), 2025.
 
 - [Deconstructing the Smart Redbelly Blockchain](../pubs/2024-SRBB-TC.pdf) D. Tennakoon, V. Gramoli.
 IEEE Transactions on Computers, DOI:10.1109/TC.2024.3475573, 2024.
