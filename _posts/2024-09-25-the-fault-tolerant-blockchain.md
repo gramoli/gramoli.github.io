@@ -7,7 +7,7 @@ tags: synchrony DBFT centralisation
 Blockchain promises to prevent global crashes like the CrowdStrike outage that affected 8.5 millions of computers around the world.
 Intuitively, this is due to the decentralisation of the blockchain software and the diversity of nodes participating in the blockchain network.
 Interestingly, the first thorough investigation of the blockchain tolerance to failures [1] has just revealed surprising results depending 
-on the considered blockchain protocol: While Redbelly could tolerate failures, Avalanche and Solana could not.
+on the considered blockchain protocol: While Redbelly could tolerate failures, Avalanche and Solana could not. *Update: This scientific paper [1] has just accepted for publication in the Proceedings of the 26th ACM/IFIP International Middleware Conference [[4]](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf).*
 
 STABL, which stands for Sensitivity Testing and Analaysis for BLockchain, is an open source tool recently developed in collaboration with 
 the University of Sydney, Redbelly Network and the Swiss Federal Institute of Technology of Lausanne to evaluate the 
@@ -47,4 +47,6 @@ ACM TOPLAS, 1982.
 
 [3] [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf?file=jacm88.pdf). Cynthia Dwork, Nancy Lynch, Larry Stockmeyer.
 J. ACM, 1988.
+
+[4] [STABL: The Sensitivity of Blockchains to Failures](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron. 26th ACM/IFIP International Middleware Conference (Middleware), 2025.
 
