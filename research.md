@@ -11,6 +11,7 @@ comments: true
 ### Recent Research Events
 
 - [Financial Cryptography 2025 - Fairness Workshop](https://fc25.ifca.ai/cfp.html), Miyakojima, Japan - Invited Speaker
+- [Future of Layer 1's](https://www.youtube.com/watch?v=G9wFLfC0WYo&t=1154s), Sydney, Australia - Invited Panelist
 - [Australian Information Security Conference 2025](https://sites.google.com/view/aisc2025/home?authuser=0) - Australia - Invited Speaker
 - [Middleware 2024](https://middleware-conf.github.io/2024/), Hong Kong - Keynote Speaker
 - [Scholars in Blockchain International Symposium](https://britishblockchainassociation.org/sibis2024/) - Invited Speaker
