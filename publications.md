@@ -2,13 +2,13 @@
 
 ## Selected Publications
 
-- [STABL: The Sensitivity of Blockchains to Failures](../pubs/2025-Middleware-Stabl.pdf) V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
+- [STABL: The Sensitivity of Blockchains to Failures](../pubs/2025-Middleware-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
 26th ACM/IFIP International Middleware Conference (Middleware), 2025.
   
-- [Evaluating Blockchain Fault Tolerance with STABL](../pubs/2025-DSN-Stabl.pdf) V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
+- [Evaluating Blockchain Fault Tolerance with STABL](../pubs/2025-DSN-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
 The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025.
 
-- [Deconstructing the Smart Redbelly Blockchain](../pubs/2024-SRBB-TC.pdf) D. Tennakoon, V. Gramoli.
+- [Deconstructing the Smart Redbelly Blockchain](../pubs/2024-SRBB-TC.pdf). D. Tennakoon, V. Gramoli.
 IEEE Transactions on Computers, DOI:10.1109/TC.2024.3475573, 2024.
 	
 - [Byzantine consensus is Θ(n^2): the Dolev-Reischuk bound is tight even in partial synchrony!](https://doi.org/10.1007/s00446-023-00458-w) P. Muhammad, A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira:
