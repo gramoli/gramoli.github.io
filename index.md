@@ -1,9 +1,9 @@
 [Home](index) | [Research](research) | [Software](software) | [Publications](publications) | [Blog](blog)
 
 Vincent Gramoli is the Founder and CTO of Redbelly Network and Professor of Computer Science at the University of Sydney. 
-He received the Digital National Facilities & Collections Award from CSIRO, the Best Paper Awards from ICDCS'21, IPDPS'22, ICDCS'22 and DSN'24, the Education Leader of the Year Award from Blockchain Australia, and the Future Fellowship from the Australian Research Council. In the past, Gramoli has been affiliated with INRIA, Cornell, Data61 and EPFL.
+He received the Digital National Facilities & Collections Award from CSIRO, the Education Leader of the Year Award from Blockchain Australia, and the Future Fellowship from the Australian Research Council. In the past, Gramoli has been affiliated with INRIA, Cornell, Data61 and EPFL.
 
-Vincent is part of the Editorial Board of the Journal of Parallel and Distributed Computing and is a Director of Redbelly Network. In the past, Vincent acted as the Chair of the Cybersecurity Committee for [CORE](https://www.core.edu.au/icore-portal), the Chair of the Blockchain Technical Committee for the [ACS](https://www.acs.org.au/), the Chair of the Program Committee of international scientific conferences, and a Blockchain expert for central and commercial banks.
+Vincent is part of the Editorial Board of the Journal of Parallel and Distributed Computing and is a Director of Redbelly Network. In the past, Vincent acted as the Chair of the Cybersecurity Committee for [CORE](https://www.core.edu.au/icore-portal), the Chair of the Blockchain Technical Committee for the [ACS](https://www.acs.org.au/), an advisor for SMEs and a Blockchain expert for central and commercial banks.
 
 [![Blockchain Scalability book](/img/book-small.png)](https://link.springer.com/book/10.1007/978-3-031-12578-2?sap-outbound-id=01A0D4B2C34832A82322B1C66819B239A93AED40)
 
