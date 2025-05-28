@@ -10,6 +10,8 @@ comments: true
 
 ### Recent Research Events
 
+- [International Conference on Blockchain Research ans Applications 2025](https://bcra-conf.github.io/2025/), Hong Kong, China - Keynote Speaker
+- [Digital Economy Conference 2025](https://www.deconference.com.au/), Gold Coast, Australia - Invited Speaker
 - [Financial Cryptography 2025 - Fairness Workshop](https://fc25.ifca.ai/cfp.html), Miyakojima, Japan - Invited Speaker
 - [Future of Layer 1's](https://www.youtube.com/watch?v=G9wFLfC0WYo&t=1154s), Sydney, Australia - Invited Panelist
 - [Australian Information Security Conference 2025](https://sites.google.com/view/aisc2025/home?authuser=0) - Australia - Invited Speaker
