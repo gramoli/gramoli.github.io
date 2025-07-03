@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Vincent
-tags: governance security
+tags: finality security synchrony finance centralisation governance
 ---
 
-Redbelly offers fixed transaction fees. This might look counter-intuitive as its native coin, RBNT, can be subject to high volatility like any other cryptocurrency. And to our knowledge, no other blockchains offer fixed price, even though this is known to be a highly desirable feature. Afterall any company needs to budgetize its financial year ahead, simply to make sure it will not go bankrupt before the end of the year. This has prevented companies from using blockchain technologies, as they were not able to anticipate the cost of using this technology for their partners, their customers or themselves.
+Redbelly offers fixed transaction fees. This might look counter-intuitive as its native coin, RBNT, can be subject to high volatility like any other cryptocurrency. And to our knowledge, no other blockchains offer fixed price, even though this is known to be a highly desirable feature. Afterall any company needs to budgetize its financial year ahead, simply to make sure it will not go bankrupt before the end of the year. Prior to this, varying fees have prevented companies from using blockchain technologies, as they were not able to anticipate the usage cost for their partners, their customers or themselves.
 
 ### Predictable Transaction Fees
 
