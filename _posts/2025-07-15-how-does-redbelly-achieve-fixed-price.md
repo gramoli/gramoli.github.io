@@ -51,7 +51,7 @@ Selecting the median guarantees that $v_1 \leq v \leq v_2$ and is thus the solut
 
 ### Conclusion
 
-Redbelly ensures the correctness of the exchange rate selection that guarantees that a transaction fee of 21,000 gas corresponds to 1 cent of a US dollar. Through the selection of the median from $3t+1$ distributed sources, Redbelly tolerates the misinformation or unresponsiveness of $t$ sources, preserving its resilience optimality property. This fixed fees allow businesses and users to anticipate the cost of using the blockchain.
+Redbelly ensures the correctness of the exchange rate selection that guarantees that a transaction fee of 21,000 gas corresponds to 1 cent of a US dollar. Through the selection of the median from $3t+1$ distributed sources, Redbelly tolerates the misinformation or unresponsiveness of $t$ sources, preserving its resilience optimality property. These fixed fees allow businesses and users to anticipate the cost of using the blockchain.
 
 ### References
 
