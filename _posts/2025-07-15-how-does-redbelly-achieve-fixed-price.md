@@ -13,7 +13,7 @@ And Redbelly does not need to build a stable US dollar coin where every stableco
 Instead, Redbelly simply relies on a distributed set of exchange rate sources and adjusts the gas price in real time.
 The result is that 21,000 gas, which is roughly the amount of gas needed by a native transfer is about US$0.01 at all times.
 
-This is radical shift in the way we use blockchain. A user needs enough inherent value in their wallet to issue a transaction as the amount of RBNT needed may increase if the value of RBNT decreases.
+This is a radical shift in the way we use blockchain. A user needs enough inherent value in their wallet to issue a transaction as the amount of RBNT needed may increase if the value of RBNT decreases.
 But businesses do no longer have surprises: they can budgetize their expenses ahead of time. 
 They can predict their PNL based on the volume of purchases because the fee associated with every purchase becomes predictable.
 This simplifies economic relationships: one can predict profits and losses based on volume targets.
@@ -51,7 +51,7 @@ Selecting the median guarantees that $v_1 \leq v \leq v_2$ and is thus the solut
 
 ### Conclusion
 
-Redbelly ensures the correctness of the exchange rate selection that guarantees that a transaction fee of 21,000 gas corresponds to 1 cent of a US dollar. Through the selection of the median from $3t+1$ distributed sources, Redbelly tolerates the misinformation or unresponsiveness of $t$ sources, preserving its resilience optimality property. These fixed fees allow businesses and users to anticipate the cost of using the blockchain.
+Redbelly ensures the correctness of the exchange rate selection that guarantees that a transaction fee of 21,000 gas corresponds to ~1 cent of a US dollar. Through the selection of the median from $3t+1$ distributed sources, Redbelly tolerates the misinformation or unresponsiveness of $t$ sources, preserving its resilience optimality property. These fixed fees allow businesses and users to anticipate the cost of using the blockchain.
 
 ### References
 
