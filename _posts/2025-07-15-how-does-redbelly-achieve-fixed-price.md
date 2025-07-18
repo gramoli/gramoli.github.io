@@ -67,4 +67,4 @@ Accessed: 1st July 2025.
 
 [5] Leslie Lamport, Robert Shostak, and Marshall Pease. 1982. The Byzantine Generals Problem. ACM Trans. Program. Lang. Syst. 4, 3 (July 1982), 382–401. https://doi.org/10.1145/357172.357176
 
-[6]  A. Ranchal-Pedrosa, V. Gramoli. [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
+[6] A. Ranchal-Pedrosa, V. Gramoli. [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
