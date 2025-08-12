@@ -12,7 +12,7 @@ Instead, safer systems should prevent from trespassing on one another’s freedo
 
 Privacy is an important right up to some extent.
 By reciprocity, the privacy that you may enjoy while using the blockchain technology is also given to your peers. 
-The drawback is that this privacy can backlash on someone else by annihilating the accountability that is needed in a society. 
+The drawback is that this privacy can backlash on someone else: without revealing our identify we feel less accountable. 
 
 ### Private PII
 
