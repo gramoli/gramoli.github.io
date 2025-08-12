@@ -61,7 +61,7 @@ it was published. The key idea was to reimburse the potential victims of a disag
 
 ### Towards Deterrence
 
-The beauty in the aforementioned solution [2] is that it has a built-in mechanism, which can be view as the 
+The beauty in the aforementioned solution [[2]](https://gramoli.github.io/pubs/DSN24-ZLB.pdf) is that it has a built-in mechanism, which can be view as the 
 Sword of Damocles, that does not aim at being used. 
 We need more of this deterrence mechanisms for blockchain to be safely adopted. 
 This is why Redbelly requires all its users to identify as real world humans by using identity providers before they can 
