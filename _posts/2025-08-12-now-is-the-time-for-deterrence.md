@@ -5,8 +5,7 @@ tags: frontrunning MEV finance security cryptography
 ---
 
 As much as I admire the cypherpunk community and the impact they had on censorship resistance, 
-I believe that the privacy they demanded has now become detrimental to the adoption of blockchain.  
-Instead, safer systems should prevent from trespassing on one another’s freedom. 
+I believe that the privacy they demanded has now become detrimental to the adoption of blockchain. Instead, safer systems should prevent from trespassing on one another’s freedom. 
 
 ### Privacy is overrated
 
