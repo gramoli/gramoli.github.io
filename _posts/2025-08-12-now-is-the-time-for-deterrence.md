@@ -16,8 +16,8 @@ The drawback is that this privacy can backlash on someone else: without revealin
 
 ### Private PII
 
-It is one thing to promote your privacy on personal data, it is another to promote privacy on the actions 
-you commit that impact other’s life. 
+In particular, it is one thing to promote your privacy on personal data, it is another to promote privacy on the actions 
+you commit that impact others' lives. 
 In fact, it is crucial that you control the access to your personal identifiable information (PII) as long 
 as it does not hamper the freedom of others.
 
@@ -25,17 +25,17 @@ as it does not hamper the freedom of others.
 
 Blockchain is often referred to as a technology offering anonymity or pseudonymity at best. The users are not identified with 
 their PII but rather a public key, typically a sequence of 64 bytes that pairs with a private key used to sign cryptograpically 
-transactions.
-The term "pseudonymity" stems from the fact that the key can be viewed as a pseudonym, and publicly associating a key to a PII 
+the transactions.
+The term "pseudonymity" stems from the fact that the key can be viewed as a pseudonym, and publicly associating this key to a PII 
 would no longer ensure anonymity.
 
 ![Tragedy](/img/hacks.png){: width="500" }[https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2025/](.)
 
 ### The lack of accountability
 
-The privacy offered through pseudonymity hampers the adoption of blockchain.
-In general, no one is made accountable for the losses and the theft of crypto assets.
-As depicted in the Figure above, the lack of accountability has led to a dramatic increase in the number of hacks over the years.
+Unfortunately, the privacy offered through pseudonymity hampers the adoption of blockchain.
+In general, no one is made accountable for the losses and the thefts of crypto assets.
+As depicted in the figure above, the lack of accountability has led to a dramatic increase in the number of hacks over the years.
 
 It is not in the interest of nation A for another nation B to launder the money that will balance a diplomatic agreement in 
 nation B's favour. It is neither fair for a layman’s transactions to be frontrun by a tech-savvy trader (take a loot at 
@@ -46,26 +46,26 @@ number of users that multiply by the day.
 
 ### Polygraph
 
-Back in 2019, we defined the Accountable Agreement problem [1], where we aim at not only solving consensus when possible 
+Back in 2019, we defined the Accountable Agreement problem [[1]](https://eprint.iacr.org/2019/587.pdf), where we aim at not only solving consensus when possible 
 but also identifying participants responsible for a disagreement. This identification simply means that the computers
 actively trying at making participants disagree on the next block of the blockchain, have their identifier 
 exposed cryprographically. 
 This result in an undeniable proof-of-fraud that can then be propagated to the system, making participants accountable 
-for their actions. We gave the name "Polygraph" to the first solution to this problem, because it helps detects the liars 
+for their actions. We gave the name "Polygraph" to the first solution to this problem, because it helps detect the liars 
 in the system.
 
 ### Zero Loss Blockchain
 
-Building upon Polygraph, we then designed a Zero Loss Blockchain system [2]. This work debunked the myth that it was impossible
-for a blockchain to tolerate a colluding majority. It thus received the Best Paper Award at the conference, IEEE/IFIP DSN, where 
+Building upon Polygraph, we then designed a Zero Loss Blockchain system [[2]](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). This work debunked the myth that it was impossible
+for a blockchain to tolerate a colluding majority. It thus received the Best Paper Award at the conference, [IEEE/IFIP DSN](https://ieeexplore.ieee.org/xpl/conhome/1000192/all-proceedings), where 
 it was published. The key idea was to reimburse the potential victims of a disagreement with the assets of the liars.  
 
 ### Towards Deterrence
 
-The beauty in this solution [2] is that it has a built-in mechanism, which can be view as the 
+The beauty in the aforementioned solution [2] is that it has a built-in mechanism, which can be view as the 
 Sword of Damocles, that does not aim at being used. 
 We need more of this deterrence mechanisms for blockchain to be safely adopted. 
-This is why Redbelly requires all its users to be real wolrd adults by using identity providers before they can 
+This is why Redbelly requires all its users to identify as real world humans by using identity providers before they can 
 join the network.
 
 [1] [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf). P Civit, S Gilbert, V Gramoli. 
