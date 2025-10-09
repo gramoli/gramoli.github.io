@@ -2,6 +2,8 @@
 
 ## Selected Publications
 
+- [Scalable Accountable Byzantine Agreement and Beyond](../pubs/2026-Scalable-Accountability.pdf). P. Civit, D. Collins, V. Gramoli, R. Guerraoui, Jovan Komatovic, Manuel Vidigueira, Pouriya Zarbafian. 47th IEEE Symposium on Security and Privacy (Oakland), 2026.
+
 - [STABL: The Sensitivity of Blockchains to Failures](../pubs/2025-Middleware-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
 26th ACM/IFIP International Middleware Conference (Middleware), 2025.
   
