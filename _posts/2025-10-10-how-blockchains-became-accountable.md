@@ -20,11 +20,11 @@ Already a good progress towards scalability as the experiments showed, yet not o
 ### ZLB 
 
 This proof-of-fraud generation became key to accountability. Once the proof-of-fraud is generated, and since it is undeniable, every correct participants can agree to punish the hackers. In ZLB [[6]](https://gramoli.github.io/pubs/DSN24-ZLB.pdf), we designed and implemented this punishment mechanism: each participant first has to stake some assets. 
-Each time a hacker gets detected with Polygraph, then ZLB would kick this hacker out of the system and use their stake to reimburse the potential victims. Thanks to this punishment strategy, ZLB became the first blockchain to be resilient to a colluding majority. Although the performance of ZLB were getting close to Redbelly’s, we needed to reduce the number of messages to make it scale.
+Each time a hacker gets detected with Polygraph, then ZLB would kick this hacker out of the system and use their stake to reimburse the potential victims. Thanks to this punishment strategy, ZLB became the first blockchain to be resilient to a colluding majority. Although the performance of ZLB was getting close to Redbelly’s, we needed to reduce the number of messages to make it scale.
 
 ### ABC
 
-But what if a blockchain was using a different consensus protocol than DBFT, then it would be difficult to make it accountable. 
+But what if a blockchain was using a different consensus protocol from DBFT, then it would be difficult to make it accountable. 
 This is why we introduced ABC [[7]](https://gramoli.github.io/pubs/JPDC2023-ABC-preprint.pdf), a more efficient generic transformation of any consensus protocol into an accountable consensus version with a simple additive quadratic communication factor. It is probably the simplest way to make blockchain participants truly accountable by detecting their double spending attempts.  A generalization over ABC was proposed in Crime and Punishment [[8]](https://gramoli.github.io/pubs/ABC-IPDPS2022.pdf) in order to work on various decision tasks even when the decision of all processes was not expected to be identical.  But the quadratic factor and the amount of signatures needed would be an overkill at large scale, so we needed a more efficient solution.
 
 ### ABC++
