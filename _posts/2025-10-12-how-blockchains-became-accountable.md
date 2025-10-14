@@ -49,5 +49,5 @@ pages 245–254. ACM, 2001.
 Conference on Computer and Communications Security, 2021.
 [6] [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024,
 [7] P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic. [As easy as ABC: Optimal (A)ccountable (B)yzantine (C)onsensus is easy!](https://gramoli.github.io/pubs/JPDC2023-ABC-preprint.pdf) Journal of Parallel and Distributed Computing (JPDC), 2023.
-[8] P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. [Crime and Punishment in Distributed Byzantine Decision Tasks](https://gramoli.github.io/pubs/ABC-IPDPS2022.pdf). 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
+[8] P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. [Crime and Punishment in Distributed Byzantine Decision Tasks](https://gramoli.github.io/pubs/ICDCS2022.pdf). 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
 
