@@ -6,7 +6,7 @@ tags: security RWA
 
 Blockchain systems have been hiding hackers for too long. It is now time to protect users to make this technology widely available.
 Since [2019](https://eprint.iacr.org/2019/587.pdf), we have known how to provably detect double spenders, but the solution could not scale to very large networks.
-Finally, a new scalable accountable consensus solution [[8]](../pubs/2026-Scalable-Accountability.pdf) is about to be published in the flagship cybersecurity conference, Oakland'26. Let me explain how this will help democratise blockchain technology.
+Finally, a new scalable accountable consensus solution [[8]](https://gramoli.github.io/pubs/2026-Scalable-Accountability.pdf) is about to be published in the flagship cybersecurity conference, Oakland'26. Let me explain how this will help democratise blockchain technology.
 
 ### Polygraph, detecting liars
 
@@ -39,7 +39,7 @@ Now think about applications of blockchains to Real World Assets (RWA). You woul
 
 ### References
 
-[1] P. Civit, D. Collins, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira, P. Zarbafian. [Scalable Accountable Byzantine Agreement and Beyond](../pubs/2026-Scalable-Accountability.pdf). 47th IEEE Symposium on Security and Privacy (Oakland), 2026.
+[1] P. Civit, D. Collins, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira, P. Zarbafian. [Scalable Accountable Byzantine Agreement and Beyond]([../pubs/2026-Scalable-Accountability.pdf](https://gramoli.github.io/pubs/2026-Scalable-Accountability.pdf)). 47th IEEE Symposium on Security and Privacy (Oakland), 2026.
 [2] P. Civit, S. Gilbert, V. Gramoli. [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf) IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021.
 [3] T. Crain, V. Gramoli, M. Larrea, M. Raynal. [DBFT: Efficient Leaderless Byzantine Consensus and its Application to Blockchains](https://ieeexplore.ieee.org/document/8548057). IEEE 17th International Symposium on Network Computing and Applications (NCA) 2018.
 [4] S. Micali, K. Ohta, and L. Reyzin. [Accountable-subgroup multisignatures: Extended abstract](https://dl.acm.org/doi/10.1145/501983.502017). In CCS’01,
