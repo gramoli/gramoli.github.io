@@ -40,14 +40,21 @@ Now think about applications of blockchains to Real World Assets (RWA). You woul
 ### References
 
 [1] P. Civit, D. Collins, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira, P. Zarbafian. [Scalable Accountable Byzantine Agreement and Beyond]([../pubs/2026-Scalable-Accountability.pdf](https://gramoli.github.io/pubs/2026-Scalable-Accountability.pdf)). 47th IEEE Symposium on Security and Privacy (Oakland), 2026.
+
 [2] P. Civit, S. Gilbert, V. Gramoli. [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf) IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021.
+
 [3] T. Crain, V. Gramoli, M. Larrea, M. Raynal. [DBFT: Efficient Leaderless Byzantine Consensus and its Application to Blockchains](https://ieeexplore.ieee.org/document/8548057). IEEE 17th International Symposium on Network Computing and Applications (NCA) 2018.
+
 [4] S. Micali, K. Ohta, and L. Reyzin. [Accountable-subgroup multisignatures: Extended abstract](https://dl.acm.org/doi/10.1145/501983.502017). In CCS’01,
 pages 245–254. ACM, 2001.
+
 [5] P. Sheng, G. Wang, K. Nayak, S. Kannan, and P. Viswanath.
 [BFT protocol forensics](https://dl.acm.org/doi/10.1145/3460120.3484566). CCS ’21: 2021 ACM SIGSAC
 Conference on Computer and Communications Security, 2021.
+
 [6] [ZLB: A Blockchain to Tolerate Colluding Majorities](https://gramoli.github.io/pubs/DSN24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024,
+
 [7] P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic. [As easy as ABC: Optimal (A)ccountable (B)yzantine (C)onsensus is easy!](https://gramoli.github.io/pubs/JPDC2023-ABC-preprint.pdf) Journal of Parallel and Distributed Computing (JPDC), 2023.
+
 [8] P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. [Crime and Punishment in Distributed Byzantine Decision Tasks](https://gramoli.github.io/pubs/ICDCS2022.pdf). 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
 
