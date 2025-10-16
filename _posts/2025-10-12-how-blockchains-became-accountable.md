@@ -29,7 +29,7 @@ This is why we introduced ABC [[7]](https://gramoli.github.io/pubs/JPDC2023-ABC-
 
 ### ABC++, scaling accountability to large network
 
-Finally, we managed to lower this additive communication complexity factor to a sub quadratic factor [[1]](../pubs/2026-Scalable-Accountability.pdf). Our tricks use a VRF-based probabilistic quorum system with BLS verification optimisations. The ratifier uses a VRF to produce a one-round quorum selection incurring *O(λn)* messages where *λ* is a statistical security parameter and where the message size depends on *κ*, a computational parameter.
+Finally, we managed to lower this communication complexity factor to a sub quadratic factor [[1]](../pubs/2026-Scalable-Accountability.pdf). Our tricks use a VRF-based probabilistic quorum system with BLS verification optimisations. The ratifier uses a VRF to produce a one-round quorum selection incurring *O(λn)* messages where *λ* is a statistical security parameter and where the message size depends on *κ*, a computational parameter.
 The propagator then requires *O(√(nλ))* per-process message-complexity and 2 rounds between a safety violation and detection where each message has size *O(λlog n+κ)* when using generic succinct non-interactive arguments (SNARGs), or size *O(λκ)* when employing pairing-based proofs.
 Composing sequentially the ratifier with the propagator offers the same confirmer as in ABC, hence offering accountability on top of any Byzantine Agreement, Reliable Broadcast, or Consistent Broadcast primitives. Because of its subquadratic complexity, it offers a scalable accountability, hence promising to secure blockchains.
 
