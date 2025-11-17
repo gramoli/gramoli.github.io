@@ -1,3 +1,8 @@
+---
+layout: post
+author: Vincent
+tags: security RWA 
+---
 
 This year, the reproducibility crisis was exacerbated as researchers found that only 50% of 30 highly cited AI studies were reproducible [1].
 By contrast, we make sure that all our experiments showing the superior fault tolerance of Redbelly are judged reproducible by an independent artifact evaluation committee of scientists. 
@@ -36,5 +41,5 @@ AAAI’25
 
 [2] [Diablo: A Benchmark Suite for Blockchains](https://gramoli.github.io/pubs/Eurosys23-Diablo.pdf) V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
 
-[3] STABL: The Sensitivity of Blockchains to Failures](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf ) V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron. 26th ACM/IFIP International Middleware Conference (Middleware), 2025.
+[3] [STABL: The Sensitivity of Blockchains to Failures](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf) V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron. 26th ACM/IFIP International Middleware Conference (Middleware), 2025.
 
