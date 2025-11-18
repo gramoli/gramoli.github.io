@@ -21,12 +21,12 @@ We recently published Stabl, a framework to evaluate the fault tolerance of bloc
 It shows the following comparison when blockchains are subject to different failure patterns: 
 
 | Blockchain | Attacks | Crash | Churn |  Partition |
-|~~~|~~~|~~~|~~~|~~~|
-| Algorand | [x] | [x] | [] | [ ] |
-| Aptos | [ ] | [x] | [ ] | [ ] |
-| Avalanche | [x] | [ ] | [ ] | [ ] |
-| Solana | [x] | [ ] | [ ] | [ ] |
-| Redbelly | [x] | [x] | [x] | [x] |
+|---|---|---|---|---|
+| Algorand | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+| Aptos | :x: | :heavy_check_mark: | :x: | :x: |
+| Avalanche | :heavy_check_mark: | :x: | :x: | :x: |
+| Solana | :heavy_check_mark: | :x: | :x: | :x: |
+| Redbelly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 Not only were these results peer-reviewed before being accepted for publications in the proceedings of the ACM/IFIP Middleware conference 2025 [3], but the published experimental results have just been judged available, functional and reproducible by an independent artifact evaluation committee of scientists.
 
