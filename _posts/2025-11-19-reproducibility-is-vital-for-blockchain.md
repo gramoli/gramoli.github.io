@@ -22,7 +22,7 @@ It shows the following comparison when blockchains are subject to different fail
 
 | Blockchain | Attacks | Crash | Churn |  Partition |
 |---|---|---|---|---|
-| Algorand | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+| Algorand | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Aptos | :x: | :heavy_check_mark: | :x: | :x: |
 | Avalanche | :heavy_check_mark: | :x: | :x: | :x: |
 | Solana | :heavy_check_mark: | :x: | :x: | :x: |
