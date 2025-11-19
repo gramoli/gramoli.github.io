@@ -28,7 +28,7 @@ As blockchain becomes the infrastructure for real-world asset tokenisation, repr
 
 To examine this problem rigorously, we developed Stabl, a framework we designed to evaluate blockchain fault tolerance under realistic and adversarial conditions. I introduced Stabl in an earlier [post](https://gramoli.github.io/2025/05/08/evaluating-blockchain-fault-tolerance-with-stabl.html) and the takeaway is straightforward: Redbelly tolerates crashes, churn, partitions, and malicious failures more effectively than the other blockchains evaluated, including Algorand, Aptos, and Solana.
 
-| Blockchain | Attacks | Crash | Churn |  Partition |
+| Blockchain | Attack | Crash | Churn |  Partition |
 |---|---|---|---|---|
 | Algorand | &#10003; | &#10003;  | &#10003;  | &#x274C; |
 | Aptos | &#x274C; |  &#10003; | &#x274C; | &#x274C; |
