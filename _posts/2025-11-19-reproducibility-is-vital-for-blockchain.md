@@ -31,7 +31,7 @@ I introduced Stabl in an earlier [post](https://gramoli.github.io/2025/05/08/eva
 
 | Blockchain | Attacks | Crash | Churn |  Partition |
 |---|---|---|---|---|
-| Algorand | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Algorand | &#10003; | &#10003;  | &#10003;  | &#x274C; |
 | Aptos | :x: | :heavy_check_mark: | :x: | :x: |
 | Avalanche | :heavy_check_mark: | :x: | :x: | :x: |
 | Solana | :heavy_check_mark: | :x: | :x: | :x: |
