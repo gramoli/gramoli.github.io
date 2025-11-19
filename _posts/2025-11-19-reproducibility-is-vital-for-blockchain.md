@@ -32,10 +32,10 @@ I introduced Stabl in an earlier [post](https://gramoli.github.io/2025/05/08/eva
 | Blockchain | Attacks | Crash | Churn |  Partition |
 |---|---|---|---|---|
 | Algorand | &#10003; | &#10003;  | &#10003;  | &#x274C; |
-| Aptos | :x: | :heavy_check_mark: | :x: | :x: |
-| Avalanche | :heavy_check_mark: | :x: | :x: | :x: |
-| Solana | :heavy_check_mark: | :x: | :x: | :x: |
-| Redbelly | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Aptos | &#x274C; |  &#10003; | &#x274C; | &#x274C; |
+| Avalanche |  &#10003; | &#x274C; | &#x274C; | &#x274C; |
+| Solana |  &#10003; | &#x274C; | &#x274C; | &#x274C; |
+| Redbelly |  &#10003; |  &#10003; |  &#10003; |  &#10003; |
 
 Not only were these results peer-reviewed before being accepted for publications in the proceedings of the ACM/IFIP Middleware conference 2025 [[3]](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf), but the published experimental results have just been independently judged available, functional and reproducible by an independent artifact evaluation committee of scientists.
 
