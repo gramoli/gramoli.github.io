@@ -8,9 +8,9 @@ This year, the reproducibility crisis was exacerbated as researchers found that 
 
 ### What is Reproducibility?
 
-Reproducibility, the ability for independent researchers to run the same methods and obtain the same results, is one of the bedrock principles of the sciencetific method. Without it, there is no way to understand the factors that lead to the observed results. If a result can’t be reproduced, then what produced it?
+Reproducibility, the ability for independent researchers to run the same methods and obtain the same results, is one of the bedrock principles of the scientific advances. Without it, there is no way to understand the factors that lead to the observed results. If a result cannot be reproduced, then what produced it?
 - A correct methodology?
-- A carefully controlled setup that does notn’t exist in the real world?
+- A carefully controlled setup that does not exist in the real world?
 - A lucky accident?
 
 ### Misleading Results
@@ -26,8 +26,7 @@ As blockchain becomes the infrastructure for real-world asset tokenisation, repr
 
 ### Blockchain Fault Tolerance
 
-To examine this problem rigorously, we developed Stabl, a framework we designed to evaluate blockchain fault tolerance under realistic and adversarial conditions. 
-I introduced Stabl in an earlier [post](https://gramoli.github.io/2025/05/08/evaluating-blockchain-fault-tolerance-with-stabl.html) and the takeaway is straightforward: Redbelly tolerates crashes, churn, partitions, and malicious failures more effectively than the other blockchains evaluated, including Algorand, Aptos, and Solana.
+To examine this problem rigorously, we developed Stabl, a framework we designed to evaluate blockchain fault tolerance under realistic and adversarial conditions. I introduced Stabl in an earlier [post](https://gramoli.github.io/2025/05/08/evaluating-blockchain-fault-tolerance-with-stabl.html) and the takeaway is straightforward: Redbelly tolerates crashes, churn, partitions, and malicious failures more effectively than the other blockchains evaluated, including Algorand, Aptos, and Solana.
 
 | Blockchain | Attacks | Crash | Churn |  Partition |
 |---|---|---|---|---|
@@ -37,19 +36,13 @@ I introduced Stabl in an earlier [post](https://gramoli.github.io/2025/05/08/eva
 | Solana |  &#10003; | &#x274C; | &#x274C; | &#x274C; |
 | Redbelly |  &#10003; |  &#10003; |  &#10003; |  &#10003; |
 
-Not only were these results peer-reviewed before being accepted for publications in the proceedings of the ACM/IFIP Middleware conference 2025 [[3]](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf), but the published experimental results have just been independently judged available, functional and reproducible by an independent artifact evaluation committee of scientists.
-
-The scientific article will be presented in the US on December 2025. It shows that Redbelly is better suited to tolerate the experimented partition, churn, crash and malicious failures than other modern blockchains, like Algorand, Aptos and Solana.
+Not only were these results peer-reviewed before being accepted for publications in the proceedings of the ACM/IFIP Middleware conference 2025 [[3]](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf), but the published experimental results have just been independently judged available, functional and reproducible by an independent artifact evaluation committee of scientists. The scientific article will be presented in the US in December 2025. 
 
 ### Why This Matters Now
 
-Blockchain is transitioning from an experimental technology to foundational infrastructure. It now underpins assets, markets, and systems that cannot afford ambiguity.
-If reproducibility becomes optional, or worse, ignored, the industry risks building systemic infrastructure on unverifiable claims. This is a structural danger.
-Reproducibility must become a baseline expectation for blockchain research and performance reporting. Not a “nice to have.”. A requirement.
+Blockchain is transitioning from an experimental technology to a foundational infrastructure. It now underpins assets, markets, and systems that cannot afford ambiguity. If reproducibility becomes optional, or worse, ignored, the industry risks building systemic infrastructure on unverifiable claims. This is a structural danger. Reproducibility must become a baseline expectation for blockchain research and performance reporting. Not a “nice to have”. A requirement.
 
-If this industry wants to be trusted, it must be transparent.
-If it wants to scale, it must be scientifically rigorous.
-And if it wants to support real-world systems, it must publish results that others can re-run, re-test, and independently verify.
+If this industry wants to scale, it must be scientifically rigorous. And if it wants to support real-world systems, it must publish results that others can re-run, re-test and independently verify.
 
 Redbelly has taken that path. And I hope others do as well.
 
