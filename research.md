@@ -10,7 +10,8 @@ comments: true
 
 ### Recent Research Events
 
-- [IEEE International Conference on Blockchain and Cryptocurrency](https://icbc2026.ieee-icbc.org/), Brisbane, Australia - Keynote Speaker
+- [IEEE International Conference on Blockchain and Cryptocurrency](https://icbc2026.ieee-icbc.org/), Brisbane, Australia - Keynote Speaker, June 2026
+- [9th Etherum Community Conference (EthCC)](https://ethcc.io/), Cannes, France - Invited Speaker, April 2026
 - [27th International Conference on Distributed Computing and Networking 2026](https://sites.google.com/view/icdcn2026/home), Nara, Japan - PC Co-chair
 - [International Conference on Blockchain Research and Applications 2025](https://bcra-conf.github.io/2025/program/keynote-2/), Hong Kong, China - Keynote Speaker
 - [Digital Economy Conference 2025](https://www.deconference.com.au/), Gold Coast, Australia - Invited Speaker
