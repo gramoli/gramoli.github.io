@@ -10,15 +10,16 @@ to explain it here.
 ### Leader-based consensus protocols
 
 Since 1999, with the influence of the Practical Byzantine Fault Tolerant (PBFT) consensus protocol [1], most consensus protocols designed to cope with 
-unexpected message delays were designed with a leader. They were often variant of the PBFT consensus protocols, this is why so many blockchains 
-built upon leader-based consensus protocols, like Tendermint, Concord, Quorum, Aptos, Diem... 
+unexpected message delays were designed with a leader. They were often variants of the PBFT consensus protocol, this is why so many blockchains 
+built upon leader-based consensus protocols, like Tendermint, Concord, Quorum, Aptos, Diem... to name a few.
 
 ### Leader-based design for four LAN nodes
 
-For at least the past 16 years, researchers knew that leaders were creating bottlenecks [2]. However, the leader abstraction was well known to 
+For at least the past 16 years, researchers knew that leaders were creating bottlenecks [2], this was even mentioned in this previous [blog post](https://github.com/gramoli/gramoli.github.io/blob/main/_posts/2024-01-19-why-blockchains-were-actually-centralised.md). However, the leader abstraction was well known to 
 break the symetry needed for all correct nodes to converge to a common decision, especially in a network where messages could take longer than 
 expected to arrive. With PBFT, this abstraction even proved practical to achieve good performance in a local area network of four machines or nodes. 
 The problem arose when trying with more nodes and in a wide area network.
+
 
 ### Bottleneck effect
 
@@ -26,10 +27,11 @@ In a leader-based context, the leader would typically send some data item (be it
 to agree on it. In a wide area network where 
 the broadcast primitive does not exist at the IP layer, the leader has to send repeatedly the same information to different recipient. 
 Therefore when the number of nodes grow, so does the amount of data the leader has to send. The network interface of the leader then 
-becomes the bottleneck. Although they are alternative that try to minimize this bottleneck effect where the leader does not send all the
-data to everyone, it just delay the bottleneck observation to more nodes.
+becomes the bottleneck. Although they are alternatives that try to minimize this bottleneck effect where the leader does not send all the
+data to everyone, it just delay the bottleneck observation to more nodes. As one can see on this graph taken from [7], leader-based protocols
+send to all other nodes that then either exchange among themselves or send back to the leader.
 
-[planetary scale patterns]
+![Leader-based](/img/planetary1.png){: width="500" }
 
 ### Bittorrent
 
@@ -42,9 +44,9 @@ obtain the file faster than if all its chunks were sent by the same sender.
 
 Redbelly [3] made an interesting observation that blocks could be combined into superblocks rather than deciding upon a single block proposed by a
 leader, a winner of a proof-of-work, etc. The idea was to leverage the blocks proposed by multiple nodes rather than discarding them in order
-to scale by accepting more proposed transactions as the number of nodes would grow.
+to scale by accepting more proposed transactions as the number of nodes would grow. 
 
-[planetary-scale]
+![Leaderless](/img/planetary2.png){: width="500" }
 
 ### Leader-freedom
 
