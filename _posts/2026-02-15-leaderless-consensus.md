@@ -10,8 +10,7 @@ to explain it here.
 ### Leader-based consensus protocols
 
 Since 1999, with the influence of the Practical Byzantine Fault Tolerant (PBFT) consensus protocol [1], most consensus protocols designed to cope with 
-unexpected message delays were designed with a leader. They were often variants of the PBFT consensus protocol, this is why so many blockchains 
-built upon leader-based consensus protocols, like Tendermint, Concord, Quorum, Aptos, Diem... to name a few.
+unexpected message delays and Byzantine failures had a leader. They were often variants of the PBFT consensus protocol, this is why so many blockchains built upon leader-based consensus protocols, like Tendermint, Concord, Quorum, Aptos, Diem... to name a few.
 
 ### Leader-based design for four LAN nodes
 
@@ -19,7 +18,6 @@ For at least the past 16 years, researchers knew that leaders were creating bott
 break the symetry needed for all correct nodes to converge to a common decision, especially in a network where messages could take longer than 
 expected to arrive. With PBFT, this abstraction even proved practical to achieve good performance in a local area network of four machines or nodes. 
 The problem arose when trying with more nodes and in a wide area network.
-
 
 ### Bottleneck effect
 
@@ -31,7 +29,7 @@ becomes the bottleneck. Although they are alternatives that try to minimize this
 data to everyone, it just delay the bottleneck observation to more nodes. As one can see on this graph taken from [7], leader-based protocols
 send to all other nodes that then either exchange among themselves or send back to the leader.
 
-![Leader-based](/img/planetary1.png){: width="500" }
+![Leader-based](/img/leader-based.png){: width="500" }
 
 ### Bittorrent
 
@@ -46,7 +44,7 @@ Redbelly [3] made an interesting observation that blocks could be combined into 
 leader, a winner of a proof-of-work, etc. The idea was to leverage the blocks proposed by multiple nodes rather than discarding them in order
 to scale by accepting more proposed transactions as the number of nodes would grow. 
 
-![Leaderless](/img/planetary2.png){: width="500" }
+![Leaderless](/img/leaderless.png){: width="500" }
 
 ### Leader-freedom
 
