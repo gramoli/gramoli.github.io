@@ -61,7 +61,7 @@ pages 67–78, Berlin, Heidelberg, 2010. Springer Berlin Heidelberg.
 
 [3] [Red Belly: A secure, fair and scalable open blockchain](https://gramoli.github.io/pubs/redbellyblockchain-oakland21.pdf). T Crain, C Natoli, V Gramoli. IEEE Symposium on Security and Privacy (S&P), 466-483, 2021.
 
-[4] [DBFT: Efficient Leaderless Byzantine Consensus and its Application to Blockchains](https://redbelly.network/research/2018-NCA-DBFT.pdf)  T. Crain, V. Gramoli, M. Larrea and M. Raynal. In 
+[4] [DBFT: Efficient Leaderless Byzantine Consensus and its Application to Blockchains](https://redbelly.network/research/2018-NCA-DBFT.pdf).  T. Crain, V. Gramoli, M. Larrea and M. Raynal. In 
 2018 IEEE 17th International Symposium on Network Computing and Applications (NCA), 2018.
 
 [5] [Leaderless Consensus](https://ieeexplore.ieee.org/document/9546485/). K. Antoniadis, A. Desjardins, V. Gramoli, R. Guerraoui, I. Zablotchi. IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 392-402, 2021, *Best Paper Award*.
