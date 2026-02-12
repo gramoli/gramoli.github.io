@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vincent
-tags: leader consensus DBFT
+tags: centralisation performance consensus DBFT
 ---
 
 Recently, I have been asked what a leaderless consensus protocol is. This notion has been so instrumental to ensure scalability of blockchains that it is important to explain it here.
@@ -46,7 +46,7 @@ single node (e.g., leader). The idea was to leverage the blocks proposed by mult
 
 ### Leader-freedom
 
-This concept was implemented on top of the Democratic BFT (DBFT) consensus algorithm [[4]](https://redbelly.network/research/2018-NCA-DBFT.pdf) that was later formally proven correct for any system size with parameterised model checking [[8]](https://gramoli.github.io/pubs/formal-verif.pdf). Its name "Democratic" stems from its *leaderless* design letting it converge to an agreement despite any single
+This concept was implemented on top of the Democratic BFT (DBFT) consensus algorithm [[4]](https://redbelly.network/research/2018-NCA-DBFT.pdf) that was later formally proven correct for any system size with parameterized model checking [[8]](https://gramoli.github.io/pubs/formal-verif.pdf). Its name "Democratic" stems from its *leaderless* design letting it converge to an agreement despite any single
 node acting arbitrarily. A formal but slightly stricter definition [[6]](https://gramoli.github.io/pubs/JPDC23-Leaderless-Preprint.pdf), which received the Best Paper Award of ICDCS'21 [5], required that any execution would converge regardless of the behaviour of any single node. Although theoretically interesting, we are not aware of an implementation that would be as efficient as DBFT.
 
 ### Conclusions
