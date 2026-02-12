@@ -21,7 +21,7 @@ The problem arose when trying with more nodes and in a wide area network (WAN).
 ### The bottleneck effect
 
 In a leader-based context, the leader would typically send some data item (be it a block or a general value) to everyone in order for them 
-to agree on it. In a WAN where 
+to agree on it. In a WAN, where 
 the broadcast primitive does not exist at the IP layer, the leader has to send repeatedly the same information to different recipients. 
 Therefore, when the number of nodes grow, so does the amount of data the leader has to send. The network interface of the leader then 
 becomes the bottleneck. Although they are alternatives that try to minimize this bottleneck effect where the leader does not send all the
