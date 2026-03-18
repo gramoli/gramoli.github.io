@@ -28,8 +28,7 @@ Distributed Computing 37(2): 89-119, 2024.
 - [Ten Myths About Blockchain Consensus](../pubs/Ten-myths-preprint.pdf). D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli.
   Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
 
-- [On the Relevance of Blockchain Evaluations on
-Bare Metal](../pubs/SDLT_2023.pdf).
+- [On the Relevance of Blockchain Evaluations on Bare Metal](../pubs/SDLT_2023.pdf).
 A. Lebedev, V. Gramoli.
 7th Symposium on Distributed Ledger Technologies (SDLT), 2023. [related poster](../pubs/EuroSys23-SDLT23.pdf)
 
@@ -76,6 +75,9 @@ A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CS
 
 - [Blockchain Scalability and its Foundations in Distributed Systems](https://link.springer.com/book/10.1007/978-3-031-12578-2?sap-outbound-id=01A0D4B2C34832A82322B1C66819B239A93AED40).
 V. Gramoli. Springer, ISBN:978-3-031-12577-5, 2022. [course](https://www.coursera.org/learn/blockchain-scalability)
+
+- [Formal Verification of Blockchain Byzantine Fault Tolerance](https://link.springer.com/content/pdf/10.1007/978-3-031-07535-3_12)
+P. Tholoniat, V. Gramoli. Handbook on Blockchain, pages 389-412. Springer. ISBN: 978-3-031-07535-3, 2022. [video](https://youtu.be/3TqNbyPxB1k)
 
 - [SAZyzz: Scaling AZyzzyva to Meet Blockchain Requirements](https://ieeexplore.ieee.org/abstract/document/9920227).
 N. Sohrabi, Z. Tari, G. Voron, V. Gramoli and Q. Fu. IEEE Transactions on Services Computing, 2022, doi: 10.1109/TSC.2022.3214976.
