@@ -2,6 +2,8 @@
 
 ## Selected Publications
 
+- [On the Bandwidth Consumption of Blockchains](../pubs/2026-Blockchain-Bandwidth.pdf). A. Lebedev, V. Gramoli. 8th IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC), 2026.
+
 - [Scalable Accountable Byzantine Agreement and Beyond](../pubs/2026-Scalable-Accountability.pdf). P. Civit, D. Collins, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira, P. Zarbafian. 47th IEEE Symposium on Security and Privacy (Oakland), 2026.
 
 - [STABL: The Sensitivity of Blockchains to Failures](../pubs/2025-Middleware-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
