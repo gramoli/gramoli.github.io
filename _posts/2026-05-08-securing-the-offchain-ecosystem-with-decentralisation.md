@@ -66,7 +66,7 @@ group can move funds out of one wallet by signing a multisig, that mechanism cou
 including under regulatory pressure.
 
 
-### The take-away
+### The take-away message
 
 #### Decentralisation is key
 LayerZero, as a protocol, did exactly what it was designed to do. The exploit was not a protocol-level bug; it 
