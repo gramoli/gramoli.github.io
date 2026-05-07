@@ -20,7 +20,7 @@ third, forcing the verifier to fail over onto the compromised nodes. From there,
 indicating a valid burn on the source chain. The bridge contract on Ethereum, seeing what looked like a legitimate instruction, released 116,500 
 rsETH (approximately USD 292 million, around 18% of rsETH’s circulating supply) to an attacker-controlled address. This is not a smart contract
 bug but a single point of failure happening during an off-chain verification. 
-The exploit was in the off-chain verification infrastructure feeding the bridge — and it was made possible because Kelp’s bridge ran a 1-of-1 
+The exploit was in the off-chain verification infrastructure feeding the bridge, and it was made possible because Kelp’s bridge ran a 1-of-1 
 DVN configuration, meaning a single verifier (LayerZero Labs itself) had to sign off on a cross-chain message for the bridge to act.
 
 ### The root cause of the problem
@@ -70,11 +70,11 @@ including under regulatory pressure.
 
 #### Decentralisation is key
 LayerZero, as a protocol, did exactly what it was designed to do. The exploit was not a protocol-level bug; it 
-was the consequence of an implementation choice — running a single-verifier configuration on a bridge securing nearly USD 300 million of user 
+was the consequence of an implementation choice, running a single-verifier configuration on a bridge securing nearly USD 300 million of user 
 assets. Redbelly’s own LayerZero implementation uses three external DVN suppliers precisely so that no single point of failure exists.
 
 #### Composability and cross-chain reach come with risk that does not disappear by ignoring it
-If you want assets that move freely across many chains — the standard pitch for omnichain tokens and wrapped representations — you accept a 
+If you want assets that move freely across many chains, the standard pitch for omnichain tokens and wrapped representations — you accept a 
 structural exposure: somewhere in that flow there is a bridge, and bridges have been an important category of DeFi losses for years. The 
 Kelp incident is yet another a reminder. Bridges that depend on shared off-chain infrastructures or hidden trust assumptions will keep being 
 targeted, because the attackers are organised and well-resourced (this attack has been preliminarily attributed to North Korea’s Lazarus Group, 
@@ -82,16 +82,16 @@ who have drained more than USD 575 million from DeFi in 18 days through two stru
 
 #### Layer 2s are not what most people think they are
 Arbitrum’s freeze illustrates the point cleanly. A 12-person elected council with emergency powers can transfer funds out of an address. That 
-may well have been the right call in this specific case — the funds were stolen by a state-sponsored actor — but it is an exercise of centralised
+may well have been the right call in this specific case, the funds were stolen by a state-sponsored actor, but it is an exercise of centralised
 authority over an asset on a network that markets itself as permissionless. The same observation applies to other widely-used networks. Many 
 Layer 2s rely on centralised sequencers or key holders simply because Layer 2s are not blockchain but off-chain. 
 This is why regulation is now differenciating clearly Public Digital Token Infrastructure from a Digital Asset Platforms [3] - the latter requiring 
 licensing.
 
 #### The choke point of accountability should be the regulated issuer, not the network
-When stolen assets move through the system, the cleanest place for action is the issuer of the underlying value — the regulated stablecoin 
+When stolen assets move through the system, the cleanest place for action is the issuer of the underlying value, the regulated stablecoin 
 issuer, the regulated tokenised-asset issuer, the regulated custodian. They are licensed. They are identified. They have legal obligations to 
-their customers. They are in the best position to freeze, claw back, or refuse to redeem assets that have been stolen — and to do so under a 
+their customers. They are in the best position to freeze, claw back, or refuse to redeem assets that have been stolen, and to do so under a 
 framework where their decisions are reviewable.
 
 ### Conclusions
@@ -103,7 +103,7 @@ flow from that mission. Four of those choices speak directly to the failure mode
 #### Redbelly is genuinely decentralised at the consensus layer
 There is no centralised sequencers or key holders on Redbelly. 
 Consensus is produced by a distributed validator set, and no group of insiders is in a position to be asked, or pressured, 
-to override the ledger. Decentralisation in this sense is not an aesthetic preference — it is what makes the network credibly neutral 
+to override the ledger. Decentralisation in this sense is not an aesthetic preference, it is what makes the network credibly neutral 
 and what keeps the question "who controls this?" from having a meaningful answer. The Arbitrum freeze cannot happen on Redbelly.
 
 #### Redbelly’s cross-chain implementation has no single point of failure
@@ -114,10 +114,10 @@ get built. The implementation choice that compromised Kelp is one Redbelly made 
 
 #### Redbelly is purpose-built for regulated assets, not retrofitted to host them
 Identity, accountability, and compliance are properties of the Redbelly network, not bolt-ons added at the application layer. The asset issuers 
-operating on Redbelly are identified, licensed, and accountable — and Redbelly’s design assumes they are the choke point for freeze, claw-back, 
+operating on Redbelly are identified, licensed, and accountable, and Redbelly’s design assumes they are the choke point for freeze, claw-back, 
 and reissuance, exactly as a regulated stablecoin issuer or tokenised-asset issuer should be. Privacy is engineered into the protocol for 
 participants who legitimately need it, rather than added later through wrappers that themselves become attack surfaces. The architectural 
-choices that make AAVE’s contagion exposure possible — bare instruments, anonymous counterparties, no accountable issuer in the loop — are 
+choices that make AAVE’s contagion exposure possible (bare instruments, anonymous counterparties, no accountable issuer in the loop) are 
 choices Redbelly was built specifically to avoid.
 
 #### Redbelly qualifies as Public Digital Token Infrastructure under the new law
