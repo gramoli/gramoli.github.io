@@ -73,14 +73,14 @@ LayerZero, as a protocol, did exactly what it was designed to do. The exploit wa
 was the consequence of an implementation choice, running a single-verifier configuration on a bridge securing nearly USD 300 million of user 
 assets. Redbelly’s own LayerZero implementation uses three external DVN suppliers precisely so that no single point of failure exists.
 
-#### Composability and cross-chain reach come with risk that does not disappear by ignoring it
+#### Composability and cross-chain risks
 If you want assets that move freely across many chains, the standard pitch for omnichain tokens and wrapped representations — you accept a 
 structural exposure: somewhere in that flow there is a bridge, and bridges have been an important category of DeFi losses for years. The 
 Kelp incident is yet another a reminder. Bridges that depend on shared off-chain infrastructures or hidden trust assumptions will keep being 
 targeted, because the attackers are organised and well-resourced (this attack has been preliminarily attributed to North Korea’s Lazarus Group, 
 who have drained more than USD 575 million from DeFi in 18 days through two structurally different vectors).
 
-#### Layer 2s are not what most people think they are
+#### Layer-2s misconceptions
 Arbitrum’s freeze illustrates the point cleanly. A 12-person elected council with emergency powers can transfer funds out of an address. That 
 may well have been the right call in this specific case, the funds were stolen by a state-sponsored actor, but it is an exercise of centralised
 authority over an asset on a network that markets itself as permissionless. The same observation applies to other widely-used networks. Many 
@@ -88,7 +88,7 @@ Layer 2s rely on centralised sequencers or key holders simply because Layer 2s a
 This is why regulation is now differenciating clearly Public Digital Token Infrastructure from a Digital Asset Platforms [3] - the latter requiring 
 licensing.
 
-#### The choke point of accountability should be the regulated issuer, not the network
+#### Accountability lies with regulated issuer
 When stolen assets move through the system, the cleanest place for action is the issuer of the underlying value, the regulated stablecoin 
 issuer, the regulated tokenised-asset issuer, the regulated custodian. They are licensed. They are identified. They have legal obligations to 
 their customers. They are in the best position to freeze, claw back, or refuse to redeem assets that have been stolen, and to do so under a 
@@ -100,19 +100,19 @@ Redbelly is not a general-purpose network that has been retrofitted to host regu
 It was purpose-built from the protocol upward for tokenised real-world assets, with the architectural choices that 
 flow from that mission. Four of those choices speak directly to the failure modes the Kelp incident exposed.
 
-#### Redbelly is genuinely decentralised at the consensus layer
+#### Redbelly's decentralisation
 There is no centralised sequencers or key holders on Redbelly. 
 Consensus is produced by a distributed validator set, and no group of insiders is in a position to be asked, or pressured, 
 to override the ledger. Decentralisation in this sense is not an aesthetic preference, it is what makes the network credibly neutral 
 and what keeps the question "who controls this?" from having a meaningful answer. The Arbitrum freeze cannot happen on Redbelly.
 
-#### Redbelly’s cross-chain implementation has no single point of failure
+#### Decentralised cross-chain implementation
 Where Redbelly connects to other networks via LayerZero, it does so through a configuration that requires independent agreement from multiple 
 external DVN suppliers. A bridge protected by one verifier is a bridge with one lock. The Kelp exploit is, mechanically, the story of a single 
 lock being picked. Redbelly treats single-verifier configurations the way a bank treats a vault with one key — as a thing that simply does not 
 get built. The implementation choice that compromised Kelp is one Redbelly made the opposite call on, deliberately, three years ago.
 
-#### Redbelly is purpose-built for regulated assets, not retrofitted to host them
+#### Purpose-built for regulated assets
 Identity, accountability, and compliance are properties of the Redbelly network, not bolt-ons added at the application layer. The asset issuers 
 operating on Redbelly are identified, licensed, and accountable, and Redbelly’s design assumes they are the choke point for freeze, claw-back, 
 and reissuance, exactly as a regulated stablecoin issuer or tokenised-asset issuer should be. Privacy is engineered into the protocol for 
@@ -120,7 +120,7 @@ participants who legitimately need it, rather than added later through wrappers 
 choices that make AAVE’s contagion exposure possible (bare instruments, anonymous counterparties, no accountable issuer in the loop) are 
 choices Redbelly was built specifically to avoid.
 
-#### Redbelly qualifies as Public Digital Token Infrastructure under the new law
+#### A Public Digital Token Infrastructure
 Under the regulatory framework now coming into action, the line between Public Digital Token Infrastructure and Digital Asset Platform will determine 
 where licensing obligations fall. Redbelly sits cleanly on the public-infrastructure side of that line because it was designed to be genuinely 
 decentralised without party able to unilaterally interfere with the ledger. Networks with a centralised council that can transfer 
