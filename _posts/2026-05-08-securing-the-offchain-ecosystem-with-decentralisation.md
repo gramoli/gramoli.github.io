@@ -5,7 +5,7 @@ tags: interoperability cross-chain centralisation security
 ---
 
 As hacks multiply, the Redbelly choice of regulation-compliant decentralisation has proved effective numerous times to cope with trusting off-chain 
-sources. This type of problem has been most recently illustrated with the Kelp DAO attack that drained US$ 292M. While this hack involved 
+sources. This type of problems has been most recently illustrated with the Kelp DAO attack that drained US$ 292M. While this hack involved 
 LayerZero that Redbelly uses, it could not have impacted the Redbelly Network thanks to its inherent decentralisation strategy.
 
 ### Summary 
