@@ -10,6 +10,7 @@ comments: true
 
 ### Recent Research Events
 
+- [Nanyang Blockchain Conference](https://www.ntu.edu.sg/cctf/cctf-community/2026-nanyang-blockchain-conference), Singapore - Invited Speaker, August 2026.
 - [IEEE International Conference on Blockchain and Cryptocurrency](https://icbc2026.ieee-icbc.org/), Brisbane, Australia - Keynote Speaker, June 2026
 - [9th Etherum Community Conference (EthCC)](https://ethcc.io/), Cannes, France - Invited Speaker, April 2026
 - [27th International Conference on Distributed Computing and Networking 2026](https://sites.google.com/view/icdcn2026/home), Nara, Japan - PC Co-chair
