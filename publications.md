@@ -158,11 +158,11 @@ C Natoli, V Gramoli.
 
 - [The blockchain as a software connector](https://www.researchgate.net/publication/305525271_The_Blockchain_as_a_Software_Connector).
 X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
-13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016.
+13th Working IEEE/IFIP Conference on Software Architecture (WICSA), 182-191, 2016. **Most Influential Paper Award**
 
 - [The Blockchain Anomaly](../../pubs/Blockchain_Anomaly.pdf).
 C Natoli, V Gramoli.
-15th IEEE International Symposium on Network Computing and Applications (NCA), 2016. **Most Influential Paper Award**
+15th IEEE International Symposium on Network Computing and Applications (NCA), 2016. 
 
 - [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms](../pubs/gramoli-synchrobench.pdf).
 V Gramoli.
