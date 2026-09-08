@@ -162,7 +162,7 @@ X Xu, C Pautasso, L Zhu, V Gramoli, A Ponomarev, AB Tran, S Chen.
 
 - [The Blockchain Anomaly](../../pubs/Blockchain_Anomaly.pdf).
 C Natoli, V Gramoli.
-15th IEEE International Symposium on Network Computing and Applications (NCA), 2016.
+15th IEEE International Symposium on Network Computing and Applications (NCA), 2016. **Most Influential Paper Award**
 
 - [More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms](../pubs/gramoli-synchrobench.pdf).
 V Gramoli.
