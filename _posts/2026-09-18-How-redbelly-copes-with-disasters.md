@@ -43,7 +43,7 @@ replicas sit with independent operators across continents and across clouds. On
 stayed insensitive to isolated crashes, in part due to its fully decentralised (a.k.a., *leaderless*) design as we explained 
 [previously](https://gramoli.github.io/2024/01/19/why-blockchains-were-actually-centralised.html). 
 
-Availability is a copy of state that still answers after the building is gone.
+Availability is a copy of state that still answers after the building is gone. For any sensitive data, Redbelly is a system of choice to offer availability despite disasters. 
 
 [1] [STABL: The Sensitivity of Blockchains to Failures](https://gramoli.github.io/pubs/2025-Middleware-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron. 
 26th ACM/IFIP International Middleware Conference (Middleware), 2025, Best Student Paper Award.
