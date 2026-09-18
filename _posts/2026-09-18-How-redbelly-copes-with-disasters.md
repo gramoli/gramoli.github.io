@@ -24,10 +24,10 @@ of an insufficient disaster recovery plan.
 ### Blockchain's decentralisation is not always sufficient
 
 By contrast, Redbelly Network has been designed to recover from the most drastric disasters by diversifying the jurisdictions,
-the machines providers, the institutions on which it runs. This is what led Redbelly Network to survive cloud provider 
+the machine providers, the institutions on which it runs. This is what led Redbelly Network to survive cloud provider 
 global network outages or bugs as previously discussed [here](https://gramoli.github.io/2024/07/26/how-to-avoid-generalised-outages.html).
 
-A public ledger helps only when it stays available under faults. Solana, another blockchains that does not offer the same properties as Redbelly,
+A public ledger helps only when it stays available under faults. Solana, another blockchain that does not offer the same properties as Redbelly,
 is known to have experienced nine outages between September 2021 and February 2023, lasting 154.5 hours [1]. Availability sat below 99 
 percent, which fails to reach two nines. Traditional cloud services, like the ones that lost data, quote at least three nines. 
 The same study showed Solana unable to recover from transient node failures. The empirical comparison of blockchain fault tolerance [1] led us to call 
