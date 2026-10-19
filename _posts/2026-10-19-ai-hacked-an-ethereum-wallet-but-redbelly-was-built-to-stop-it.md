@@ -24,7 +24,7 @@ Legacy blockchains like Ethereum equate possession of a private key with authori
 Note that we already discussed the drawbacks of anonymous-by-default architectures that came out of privacy in an earlier [post](https://gramoli.github.io/2025/08/12/now-is-the-time-for-deterrence.html).
 
 
-![Oracles](/img/openai-vs-ethereum.jpg){: width="500" }
+![Oracles](/img/openai-vs-ethereum.png){: width="500" }
 
 ### The Problem Will Exacerbate in the Near Future
 
