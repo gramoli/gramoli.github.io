@@ -2,6 +2,9 @@
 
 ## Selected Publications
 
+- [Isotaxis: Optimal Asynchronous Byzantine
+Consensus with Ordering Linearizability](../pubs/2027-NDSS-SMR_with_OL.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian, X. Zhang. Network and Distributed System Security (NDSS), 2027.
+
 - [On the Bandwidth Consumption of Blockchains](../pubs/2026-Blockchain-Bandwidth.pdf). A. Lebedev, V. Gramoli. 8th IEEE International Conference on Blockchain and Cryptocurrency (IEEE ICBC), 2026.
 
 - [Scalable Accountable Byzantine Agreement and Beyond](../pubs/2026-Scalable-Accountability.pdf). P. Civit, D. Collins, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira, P. Zarbafian. 47th IEEE Symposium on Security and Privacy (Oakland), 2026.
